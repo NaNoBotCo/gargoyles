@@ -1,0 +1,140 @@
+# Gargoyles, Drawn · การ์กอยล์ วาดด้วยคณิต
+
+Gargoyles, grotesques and their cousins around the world, drawn live: Notre-Dame under the sky over Paris right now, the physics of a spout, the dragon of Rouen, a thousand dragons in Beijing, the face that ate itself, Nepal's stone spouts, a block to carve and an astronaut to find.
+
+English: https://nanobotco.github.io/gargoyles/
+ไทย: https://nanobotco.github.io/gargoyles/th/
+
+## The beasts
+
+### Europe
+- Notre-Dame gargoyle (Notre-Dame de Paris, France · about 1240): A drain with a body. Rain runs along a groove in its back and leaves by the mouth, clear of the wall. Spouts water.
+- Le Stryge (Galerie des Chimères, Notre-Dame · 1850s): A chimera, not a gargoyle: it carries no water. Viollet-le-Duc designed it for the 19th-century restoration. Does not spout water.
+- Greek lion-head spout (Temple of Zeus, Olympia, Greece · about 470–456 BC): 102 lion heads lined the marble roof gutter, the sima; 39 survive. Vitruvius says only the heads over the columns were bored through. Spouts water.
+- Green Man (church roofs and capitals across Europe): A face made of leaves, vines growing from its mouth. It reached England from France in the 1100s; the name Green Man dates from 1939. Does not spout water.
+- The Salamanca astronaut (New Cathedral, Salamanca, Spain · 1992): Carved by the stonemason Miguel Romero in 1992, when the north door was restored, among the old foliage. Does not spout water.
+
+### Africa
+- Dendera lion spout (Temple of Hathor, Dendera, Egypt): Rain is rare in Upper Egypt, but the temple roofs at Dendera and Edfu still shed it through lions' mouths. Spouts water.
+
+### Asia
+- Dragon-head spouts (Forbidden City, Beijing · 1400s): A hornless dragon head under every marble baluster post, a hole through its mouth. Spouts water.
+- Chiwen ridge beast (palace and temple roofs, China): It bites the end of the roof ridge, a charm against fire. The one on the Hall of Supreme Harmony stands 3.4 m and weighs about 4.3 tonnes. Legend says the sword in its back pins it there. Does not spout water.
+- Onigawara (temple and castle roofs, Japan): An ogre's face on the tile at the end of a ridge, to keep misfortune off the roof. Does not spout water.
+- Golden shachihoko (Nagoya Castle, Japan): A tiger's head on a carp's body, tail in the air; said to swallow great quantities of water and control the rain, so it guards against fire. Does not spout water.
+- Makara spout (Manga Hiti, Patan, Nepal): A stone spout at the bottom of a sunken court, running with water from the hills. Spouts water.
+- Borobudur spout (Borobudur, Java, Indonesia · 800s): 100 spouts at the corners of the terraces, each a giant or a makara, carry off the tropical rain. Spouts water.
+- Kirtimukha (over temple doors, India): The face that ate itself, guarding the door with no body and no lower jaw. Does not spout water.
+- Kala (Khmer lintels, Cambodia and Thailand): The same face in Khmer sandstone, holding garlands that pour from its mouth. Does not spout water.
+- Yaksha guardian (Wat Arun and Wat Phra Kaew, Bangkok): Twelve giants from the Ramakien, each about 5 m tall, guard Wat Phra Kaew's gates. At Wat Arun, green Thotsakan and white Sahatsadecha guard the ordination hall. Does not spout water.
+- Lanna singha (temple gates, Chiang Mai): Lions in pairs at gates and stairways, white and gold, mouths open. The type came to Lanna by way of Burma. Does not spout water.
+
+### The Americas
+- Chaac masks (Codz Poop, Kabah, Mexico): The Maya rain god, hundreds of times over on one facade, his long nose curling up. The Puuc hills have no cenotes; rain was the only water. Does not spout water.
+- Chrysler eagles (Chrysler Building, New York · 1930): Steel eagle heads at the corners of the 61st floor. People call them gargoyles; they carry no water. Does not spout water.
+
+## Sources
+
+- Open-Meteo weather API: https://open-meteo.com/
+- Natural Earth: https://www.naturalearthdata.com/
+- 19thc-artworldwide.org: the gargoyles of notre dame: https://19thc-artworldwide.org/autumn10/the-gargoyles-of-notre-dame
+- archaeology.org: when it rains it pours: https://archaeology.org/issues/january-february-2024/digs-discoveries/when-it-rains-it-pours/
+- artsandculture.google.com: 1AWx0BllwxhDJg: https://artsandculture.google.com/story/1AWx0BllwxhDJg
+- artsandculture.google.com: kAUxzfSXqtpjDg: https://artsandculture.google.com/story/kAUxzfSXqtpjDg
+- bjnews.com.cn: https://www.bjnews.com.cn/detail/1784434400129176.html
+- blogs.weta.org: luke i am your gargoyle how darth vader came national cathed: https://blogs.weta.org/2023/05/03/luke-i-am-your-gargoyle-how-darth-vader-came-national-cathedral
+- brooklynmuseum.org: https://www.brooklynmuseum.org/objects/44922
+- buildingconservation.com: https://www.buildingconservation.com/books/churches2013/files/assets/basic-html/page30.html
+- canterbury-cathedral.org: do you know the difference between a gargoyle and a grotesqu: https://www.canterbury-cathedral.org/news/posts/do-you-know-the-difference-between-a-gargoyle-and-a-grotesque/
+- clevelandart.org: https://www.clevelandart.org/art/1975.104
+- designingbuildings.co.uk: Gargoyle: https://www.designingbuildings.co.uk/wiki/Gargoyle
+- designingbuildings.co.uk: Onigawara: https://designingbuildings.co.uk/wiki/Onigawara
+- en.wiktionary.org: gargoyle: https://en.wiktionary.org/wiki/gargoyle
+- euronews.com: notre dame cathedrals gargoyles undergo makeover for grand r: https://www.euronews.com/culture/2024/10/28/notre-dame-cathedrals-gargoyles-undergo-makeover-for-grand-reopening
+- euronews.com: the gargoyles of the notre dame de paris are coming back to : https://www.euronews.com/culture/2023/03/22/the-gargoyles-of-the-notre-dame-de-paris-are-coming-back-to-life
+- fr.aleteia.org: notre dame jour par jour des chimeres deplacees apres lincen: https://fr.aleteia.org/2019/12/29/notre-dame-jour-par-jour-des-chimeres-deplacees-apres-lincendie/
+- globalegyptianmuseum.org: https://www.globalegyptianmuseum.org/record.aspx?id=15270
+- grays-stone-carving.co.uk: grotesques and gargoyles: https://grays-stone-carving.co.uk/grotesques-and-gargoyles/
+- homepages.bluffton.edu: https://homepages.bluffton.edu/~SULLIVANM/mexico/kabah/kabah.html
+- leadstories.com: https://leadstories.com/hoax-alert/2020/11/fact-check-the-astronaut-stone-carving-on-the-cathedral-of-salamanca-is-not-a-mystery.html
+- lucasvarro.com: somasutra: https://lucasvarro.com/blogs/angkorpedia/somasutra
+- maehongsonholidays.com: https://www.maehongsonholidays.com/?p=26696
+- masonslivery.org: gloucester gargoyles by yeoman mason paul synan: https://www.masonslivery.org/gloucester-gargoyles-by-yeoman-mason-paul-synan/
+- mayan.org: kabah: https://mayan.org/ruins/kabah/
+- mentalfloss.com: washington national cathedral darth vader gargoyle: https://mentalfloss.com/article/655270/washington-national-cathedral-darth-vader-gargoyle
+- mgronline.com: https://mgronline.com/travel/detail/9670000037185
+- museum.classics.cam.ac.uk: lions head waterspout: https://museum.classics.cam.ac.uk/collections/casts/lions-head-waterspout
+- nationalgeographic.com: medieval statues grotesques stonemasons: https://www.nationalgeographic.com/culture/article/medieval-statues-grotesques-stonemasons
+- nepalitimes.com: saving nepal s hiti heritage: https://nepalitimes.com/saving-nepal-s-hiti-heritage
+- npgallery.nps.gov: 76001237 text: https://npgallery.nps.gov/NRHP/GetAsset/NHLS/76001237_text
+- ourchinastory.com: https://www.ourchinastory.com/cn/8219
+- penelope.uchicago.edu: https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Vitruvius/3*.html
+- princetonlibrary.org: a grotesque tour of princeton: https://princetonlibrary.org/a-grotesque-tour-of-princeton/
+- roots.gov.sg: https://www.roots.gov.sg/collection-landing/listing/1114002
+- savingplaces.org: slideshow from wild to whimsical the gargoyles and grotesque: https://savingplaces.org/stories/slideshow-from-wild-to-whimsical-the-gargoyles-and-grotesques-of-washington-national-cathedral
+- sealionplus.iseas.edu.sg: https://sealionplus.iseas.edu.sg/nodes/view/8955
+- silpa-mag.com: https://www.silpa-mag.com/?p=52305
+- stirlingcityheritagetrust.org: story behind paisley abbeys alien gargoyle: https://www.stirlingcityheritagetrust.org/blog/story-behind-paisley-abbeys-alien-gargoyle
+- strathspey-herald.co.uk: cheese roller gargoyle to grace gloucester cathedral 4119: https://www.strathspey-herald.co.uk/news/national/cheese-roller-gargoyle-to-grace-gloucester-cathedral-4119
+- talesfromthetwolands.org: waterspout in the shape of a lion: https://talesfromthetwolands.org/2024/08/16/waterspout-in-the-shape-of-a-lion/
+- theacropolismuseum.gr: old athena temple lion head spout: https://www.theacropolismuseum.gr/en/old-athena-temple-lion-head-spout
+- thepaper.cn: newsDetail forward 24096052: https://www.thepaper.cn/newsDetail_forward_24096052
+- tsinghua.edu.cn: https://www.tsinghua.edu.cn/info/1180/108139.htm
+- Viollet-le-Duc, Dictionnaire raisonné (Wikisource): https://fr.wikisource.org/wiki/Dictionnaire_raisonn%C3%A9_de_l%E2%80%99architecture_fran%C3%A7aise_du_XIe_au_XVIe_si%C3%A8cle/Gargouille
+- webarchive.unesco.org: https://webarchive.unesco.org/web/20151228121957/http://unesdoc.unesco.org/images/0022/002244/224474M.pdf
+- Wikipedia (de): Wasserspeier: https://de.wikipedia.org/wiki/Wasserspeier
+- Wikipedia (en): Borobudur: https://en.wikipedia.org/wiki/Borobudur
+- Wikipedia (en): Chaac: https://en.wikipedia.org/wiki/Chaac
+- Wikipedia (en): Chimera (architecture): https://en.wikipedia.org/wiki/Chimera_(architecture)
+- Wikipedia (en): Chinthe: https://en.wikipedia.org/wiki/Chinthe
+- Wikipedia (en): Chiwen: https://en.wikipedia.org/wiki/Chiwen
+- Wikipedia (en): Chofa: https://en.wikipedia.org/wiki/Chofa
+- Wikipedia (en): Chrysler Building: https://en.wikipedia.org/wiki/Chrysler_Building
+- Wikipedia (en): Dhunge dhara: https://en.wikipedia.org/wiki/Dhunge_dhara
+- Wikipedia (en): Domus Aurea: https://en.wikipedia.org/wiki/Domus_Aurea
+- Wikipedia (en): Gargoyle: https://en.wikipedia.org/wiki/Gargoyle
+- Wikipedia (en): Green Man: https://en.wikipedia.org/wiki/Green_Man
+- Wikipedia (en): Grotesque: https://en.wikipedia.org/wiki/Grotesque
+- Wikipedia (en): Kabah (Maya site): https://en.wikipedia.org/wiki/Kabah_(Maya_site)
+- Wikipedia (en): Khmer architecture: https://en.wikipedia.org/wiki/Khmer_architecture
+- Wikipedia (en): Kirtimukha: https://en.wikipedia.org/wiki/Kirtimukha
+- Wikipedia (en): Lincoln Imp: https://en.wikipedia.org/wiki/Lincoln_Imp
+- Wikipedia (en): Lion mask: https://en.wikipedia.org/wiki/Lion_mask
+- Wikipedia (en): Nagoya Castle: https://en.wikipedia.org/wiki/Nagoya_Castle
+- Wikipedia (en): New Cathedral of Salamanca: https://en.wikipedia.org/wiki/New_Cathedral_of_Salamanca
+- Wikipedia (en): Notre-Dame de Paris: https://en.wikipedia.org/wiki/Notre-Dame_de_Paris
+- Wikipedia (en): Onigawara: https://en.wikipedia.org/wiki/Onigawara
+- Wikipedia (en): Paduraksa: https://en.wikipedia.org/wiki/Paduraksa
+- Wikipedia (en): Paisley Abbey: https://en.wikipedia.org/wiki/Paisley_Abbey
+- Wikipedia (en): Phanom Rung: https://en.wikipedia.org/wiki/Phanom_Rung
+- Wikipedia (en): Pranala: https://en.wikipedia.org/wiki/Pranala
+- Wikipedia (en): Privilege of St Romain: https://en.wikipedia.org/wiki/Privilege_of_St_Romain
+- Wikipedia (en): Romanus of Rouen: https://en.wikipedia.org/wiki/Romanus_of_Rouen
+- Wikipedia (en): Shachihoko: https://en.wikipedia.org/wiki/Shachihoko
+- Wikipedia (en): Sheela na gig: https://en.wikipedia.org/wiki/Sheela_na_gig
+- Wikipedia (en): Sima (architecture): https://en.wikipedia.org/wiki/Sima_(architecture)
+- Wikipedia (en): Temple of Zeus, Olympia: https://en.wikipedia.org/wiki/Temple_of_Zeus,_Olympia
+- Wikipedia (en): Uxmal: https://en.wikipedia.org/wiki/Uxmal
+- Wikipedia (en): Washington National Cathedral: https://en.wikipedia.org/wiki/Washington_National_Cathedral
+- Wikipedia (en): Wat Arun: https://en.wikipedia.org/wiki/Wat_Arun
+- Wikipedia (en): Wat Phra Kaew: https://en.wikipedia.org/wiki/Wat_Phra_Kaew
+- Wikipedia (es): Gárgola: https://es.wikipedia.org/wiki/G%C3%A1rgola
+- Wikipedia (fr): Chimères de Notre-Dame de Paris: https://fr.wikipedia.org/wiki/Chim%C3%A8res_de_Notre-Dame_de_Paris
+- Wikipedia (fr): Le Stryge: https://fr.wikipedia.org/wiki/Le_Stryge
+- Wikipedia (fr): Privilège de saint Romain: https://fr.wikipedia.org/wiki/Privil%C3%A8ge_de_saint_Romain
+- Wikipedia (it): Doccione: https://it.wikipedia.org/wiki/Doccione
+- Wikipedia (ja): 名古屋城: https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%9F%8E
+- Wikipedia (ja): 鬼瓦: https://ja.wikipedia.org/wiki/%E9%AC%BC%E7%93%A6
+- Wikipedia (ja): 鯱: https://ja.wikipedia.org/wiki/%E9%AF%B1
+- Wikipedia (nl): Waterspuwer: https://nl.wikipedia.org/wiki/Waterspuwer
+- Wikipedia (th): การ์กอยล์: https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%AD%E0%B8%A2%E0%B8%A5%E0%B9%8C
+- Wikipedia (th): ทวารบาล: https://th.wikipedia.org/wiki/%E0%B8%97%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B2%E0%B8%A5
+- Wikipedia (th): มกร: https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%81%E0%B8%A3
+- Wikipedia (zh): 太和殿: https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%92%8C%E6%AE%BF
+- Wikipedia (zh): 正吻: https://zh.wikipedia.org/wiki/%E6%AD%A3%E5%90%BB
+- Wikipedia (zh): 螭首: https://zh.wikipedia.org/wiki/%E8%9E%AD%E9%A6%96
+- Wikipedia (zh): 龍生九子: https://zh.wikipedia.org/wiki/%E9%BE%8D%E7%94%9F%E4%B9%9D%E5%AD%90
+- wordandsilence.com: the great myths 25 the monster kirttimukha the face of glory: https://wordandsilence.com/2018/02/01/the-great-myths-25-the-monster-kirttimukha-the-face-of-glory-hindu
+- your.yale.edu: 2026 07 27 carved in stone: https://your.yale.edu/youryale/2026-07-27-carved-in-stone
+
+Text and drawings: CC BY 4.0, credit NaNoBotCo. Code: MIT. Photographs keep their own licences, listed on the page.

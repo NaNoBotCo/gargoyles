@@ -1,0 +1,20 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex">
+<!-- the share card: node tools/card.mjs renders this at 1200x630 into docs/card.jpg -->
+<style>
+html,body{margin:0;width:1200px;height:630px;overflow:hidden;background:#121624}
+canvas{position:absolute;inset:0;width:1200px;height:630px}
+.t{position:absolute;right:56px;top:46px;text-align:right;color:#fff;font-family:"Avenir Next Condensed","Arial Narrow Bold",Impact,sans-serif}
+.k{font-weight:800;font-size:19px;letter-spacing:.32em;color:#ffd58a;text-transform:uppercase;text-shadow:0 1px 10px rgba(0,0,0,.7)}
+h1{margin:10px 0 0;font-size:112px;line-height:.84;font-weight:800;text-transform:uppercase;background:linear-gradient(180deg,#fff 35%,#ffe3a8);-webkit-background-clip:text;color:transparent;filter:drop-shadow(0 3px 18px rgba(10,10,40,.6))}
+.th{font:600 40px Thonburi,"Noto Sans Thai",sans-serif;color:#fff4ea;margin-top:12px;text-shadow:0 2px 14px rgba(0,0,0,.6)}
+.u{position:absolute;right:56px;bottom:34px;font:700 22px "Avenir Next",sans-serif;color:#fff4ea;letter-spacing:.04em;text-shadow:0 1px 10px #000}
+</style></head><body>
+<canvas id="c" width="2400" height="1260"></canvas>
+<div class="t"><div class="k">Paris · Beijing · Patan · Bangkok</div><h1>Gargoyles,<br>Drawn</h1><div class="th">การ์กอยล์ วาดด้วยคณิต</div></div>
+<div class="u">nanobotco.github.io/gargoyles</div>
+<script src="pen.js"></script><script src="beasts.js"></script><script src="beasts-east.js"></script><script src="scenes.js"></script><script src="hero.js"></script>
+<script>
+var c = document.getElementById("c").getContext("2d"); c.setTransform(2, 0, 0, 2, 0, 0);
+GARG.HERO.draw(c, 1200, 630, { t: 5200, alt: -3.5, moon: 0.3, rain: 0.8, cloud: 0.5, wind: 0.2 });
+document.body.setAttribute("data-done", "1");
+</script></body></html>
