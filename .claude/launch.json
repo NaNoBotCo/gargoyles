@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "gargoyles",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8998",
+        "--directory",
+        "/Users/annikapeacock/Developer/claude code projects/gargoyles/docs"
+      ],
+      "port": 8998
+    }
+  ]
+}

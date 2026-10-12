@@ -1,0 +1,1010 @@
+[
+ {
+  "id": "etym",
+  "claim": "The word gargoyle comes from Old French gargouille (gargoule, recorded in 1294, meaning a conduit for water), built on the imitative root garg- plus Old French goule, 'animal mouth, throat'.",
+  "url": "https://en.wikipedia.org/wiki/Gargoyle"
+ },
+ {
+  "id": "etym",
+  "claim": "The root traces to Latin gula ('gullet, throat') and gurgulio, from gurg-/garg-, the sound of swallowing or gurgling water; English 'gargle' shares the root.",
+  "url": "https://en.wikipedia.org/wiki/Gargoyle"
+ },
+ {
+  "id": "etym",
+  "claim": "Wiktionary calls gargoyle a doublet of 'gargle' and says the Academie francaise suggests the first attestation as gargoule in 1294; it does not itself mention Latin gurgulio.",
+  "url": "https://en.wiktionary.org/wiki/gargoyle",
+  "note": "Wikipedia (above) gives the Latin gula/gurgulio chain; Wiktionary's page as fetched did not."
+ },
+ {
+  "id": "etym",
+  "claim": "Spanish gargola is borrowed from French gargouille (Spanish garganta, 'throat', is a related word with the same root); the Spanish Wikipedia also cites Latin gurgulio and Greek gargarizo (to gargle).",
+  "url": "https://es.wikipedia.org/wiki/G%C3%A1rgola"
+ },
+ {
+  "id": "etym",
+  "claim": "German word: Wasserspeier ('water spitter'); the German Wikipedia notes the French gargouille became English gargoyle and is related to German 'gurgeln'.",
+  "url": "https://de.wikipedia.org/wiki/Wasserspeier"
+ },
+ {
+  "id": "etym",
+  "claim": "Dutch word: waterspuwer (also gargouille), defined as an outlet of a gutter or basin that carries water away.",
+  "url": "https://nl.wikipedia.org/wiki/Waterspuwer"
+ },
+ {
+  "id": "etym",
+  "claim": "Italian word: doccione ('protruding gutter') for the working spout; a spout decorated with monstrous or fantastic figures is called gargolla or garguglia, borrowed from French.",
+  "url": "https://it.wikipedia.org/wiki/Doccione"
+ },
+ {
+  "id": "etym",
+  "claim": "Thai word: ปนาลี (panali), also written การ์กอยล์ (gargoyle, transliterated); Thai Wikipedia says panali means a grotesque stone figure projecting from a building with a channel to throw roof water clear, and that a decorative figure with no channel is called รูปอัปลักษณ์.",
+  "url": "https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%AD%E0%B8%A2%E0%B8%A5%E0%B9%8C",
+  "note": "The Thai Wikipedia article carries no footnotes; the folk claim in it that gargoyles turn into flying dragons at night is unsourced there."
+ },
+ {
+  "id": "etym",
+  "claim": "In architecture a figure with no water spout is called a grotesque, a chimera, or a boss; a chimera is the type of grotesque that shows a mythical combination of several animals (sometimes including humans).",
+  "url": "https://en.wikipedia.org/wiki/Chimera_(architecture)"
+ },
+ {
+  "id": "etym",
+  "claim": "In the Middle Ages the word babewyn (from Italian babbuino, baboon) was used for both gargoyles and chimerae.",
+  "url": "https://en.wikipedia.org/wiki/Chimera_(architecture)"
+ },
+ {
+  "id": "etym",
+  "claim": "The English word grotesque first appears in the 1560s, borrowed from French, from Italian grottesca ('of a cave', from grotta, cave), the name for an extravagant style of ancient Roman decorative painting rediscovered at the end of the 15th century.",
+  "url": "https://en.wikipedia.org/wiki/Grotesque"
+ },
+ {
+  "id": "etym",
+  "claim": "The 'caves' (le Grotte) were rooms and corridors of Nero's Domus Aurea, begun after the Great Fire of Rome in AD 64, which had become buried and overgrown; visitors were lowered in on ropes from above, as into a cave.",
+  "url": "https://en.wikipedia.org/wiki/Grotesque"
+ },
+ {
+  "id": "etym",
+  "claim": "Young Renaissance artists, including Raphael, were let down shafts on ropes to study the Domus Aurea frescoes, and Raphael's decoration of the Vatican loggias shows their effect.",
+  "url": "https://en.wikipedia.org/wiki/Domus_Aurea"
+ },
+ {
+  "id": "etym",
+  "claim": "The first appearance of the word grottesche is in a contract of 1502 for the Piccolomini Library attached to Siena's duomo; Raphael and his team then developed grottesche into a full system of ornament in the Loggia of the Vatican Palace (the Raphael's Rooms series), about 1519.",
+  "url": "https://en.wikipedia.org/wiki/Grotesque",
+  "note": "The 'about 1519' date is from the search-tool summary of Wikipedia; the fetched article text itself gives the contract of 1502 and the Loggia without a year."
+ },
+ {
+  "id": "etym",
+  "claim": "The 'c. 1480' date for the Domus Aurea's rediscovery appears in a search summary (painters Pinturicchio, Filippino Lippi and Signorelli descending by torchlight), but the Wikipedia pages say only 'late 15th century' or 'the end of the fifteenth century'.",
+  "url": "https://en.wikipedia.org/wiki/Domus_Aurea",
+  "note": "Treat c. 1480 as plausible but unconfirmed here; 'late 15th century' is the safe wording. The colosseo.it page that carries the 1480 line (https://colosseo.it/en/event/raphael-and-the-domus-aurea-the-invention-of-grotesques/) refused the fetch, so this is via search."
+ },
+ {
+  "id": "purpose",
+  "claim": "A gargoyle is a carved grotesque with a spout that carries water from a roof away from the wall, so it does not run down the masonry and erode the mortar between the stones.",
+  "url": "https://en.wikipedia.org/wiki/Gargoyle"
+ },
+ {
+  "id": "purpose",
+  "claim": "A trough is cut in the back of the gargoyle and rainwater exits through the open mouth; gargoyles are usually elongated animals because their length decides how far the water is thrown from the wall.",
+  "url": "https://en.wikipedia.org/wiki/Gargoyle"
+ },
+ {
+  "id": "purpose",
+  "claim": "Architects used many gargoyles on a building to split the roof's flow into several thin streams; Viollet-le-Duc wrote that dividing the falls reduced each to a very thin thread of water that could not harm the walls below, and that multiplying the gargoyles let masons carve them finer.",
+  "url": "https://fr.wikisource.org/wiki/Dictionnaire_raisonn%C3%A9_de_l%E2%80%99architecture_fran%C3%A7aise_du_XIe_au_XVIe_si%C3%A8cle/Gargouille",
+  "note": "Viollet-le-Duc, Dictionnaire raisonne, entry 'Gargouille' (vol. 6); he also lists the old names gargolle, guivre, canon and 'lanceur' (thrower)."
+ },
+ {
+  "id": "purpose",
+  "claim": "At Notre-Dame the rain ran from the roof into lead gutters, down channels on the flying buttresses, then along a channel cut in the back of the gargoyle and out of its mouth, projected as far as possible from the buttresses, walls and windows.",
+  "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+ },
+ {
+  "id": "purpose",
+  "claim": "Viollet-le-Duc places the first gargoyles at about 1220 on parts of Laon Cathedral, where they are wide and few, built in two courses (one forming the channel, one the cover); Paris used them systematically by about 1240.",
+  "url": "https://fr.wikisource.org/wiki/Dictionnaire_raisonn%C3%A9_de_l%E2%80%99architecture_fran%C3%A7aise_du_XIe_au_XVIe_si%C3%A8cle/Gargouille",
+  "note": "Wikipedia (EN) says Laon c. 1200-1220; Viollet-le-Duc says c. 1220 for Laon. Notre-Dame: Wikipedia says gargoyles added about 1240; the French Wikipedia says 1225 for the upper cornices."
+ },
+ {
+  "id": "purpose",
+  "claim": "Viollet-le-Duc records that before about 1200 roof water simply dripped from projecting cornices onto the street, and that at Notre-Dame there were no gutters or gargoyles when the choir was finished in 1190.",
+  "url": "https://fr.wikisource.org/wiki/Dictionnaire_raisonn%C3%A9_de_l%E2%80%99architecture_fran%C3%A7aise_du_XIe_au_XVIe_si%C3%A8cle/Gargouille"
+ },
+ {
+  "id": "purpose",
+  "claim": "The earliest roofs had broad eaves to throw water clear; once parapets arrived, water was channelled behind the parapet in lead-lined gutters and out through a chute that projected clear of the wall, which in stone became the gargoyle.",
+  "url": "https://www.buildingconservation.com/books/churches2013/files/assets/basic-html/page30.html",
+  "note": "Building Conservation Directory, Historic Churches 2013, p. 29-30."
+ },
+ {
+  "id": "purpose",
+  "claim": "Lead hoppers and downpipes were used on the Tower of London as early as 1240 to protect its whitewashed walls from spray, and were probably used on churches around then as an alternative to gargoyles.",
+  "url": "https://www.buildingconservation.com/books/churches2013/files/assets/basic-html/page30.html"
+ },
+ {
+  "id": "purpose",
+  "claim": "The modern system of gutters and downpipes emerged with cast iron in the late 18th century, replacing bespoke lead work, and by the mid-19th century these systems predominated.",
+  "url": "https://www.buildingconservation.com/books/churches2013/files/assets/basic-html/page30.html"
+ },
+ {
+  "id": "purpose",
+  "claim": "From the early 18th century more buildings used drainpipes instead of waterspouts; the London Building Act 1724 (11 Geo. 1. c. 28) made downpipes compulsory in all new construction.",
+  "url": "https://en.wikipedia.org/wiki/Gargoyle",
+  "note": "Wikipedia's wording; the 1724 Act's text was not read directly. Designing Buildings repeats it: https://www.designingbuildings.co.uk/wiki/Gargoyle"
+ },
+ {
+  "id": "purpose",
+  "claim": "NOT FOUND: a sourced typical projection length in metres or feet for a medieval gargoyle spout; sources only say the length decides how far water is thrown and that Viollet-le-Duc describes the Notre-Dame nave buttress gargoyles as given 'very great projection' by supporting corbels.",
+  "url": "https://fr.wikisource.org/wiki/Dictionnaire_raisonn%C3%A9_de_l%E2%80%99architecture_fran%C3%A7aise_du_XIe_au_XVIe_si%C3%A8cle/Gargouille"
+ },
+ {
+  "id": "purpose",
+  "claim": "Gloucester Cathedral's 2019-2020 working gargoyles are described as 3 ft (about 0.9 m) tall, six of them added to the north side during a 530,000 pound restoration.",
+  "url": "https://www.designingbuildings.co.uk/wiki/Gargoyle"
+ },
+ {
+  "id": "rouen",
+  "claim": "The legend: a huge serpent or dragon, La Gargouille (also Garguiem), rampaged in the marshes on the left bank of the Seine near Rouen, devouring people and animals.",
+  "url": "https://en.wikipedia.org/wiki/Romanus_of_Rouen"
+ },
+ {
+  "id": "rouen",
+  "claim": "Bishop Romanus (Romain, died c. 640) could find only one helper, a man condemned to death with nothing to lose; Romanus made the sign of the cross at the beast, which lay down, and he put his stole on it as a leash and led it into town.",
+  "url": "https://en.wikipedia.org/wiki/Romanus_of_Rouen"
+ },
+ {
+  "id": "rouen",
+  "claim": "The dragon was condemned and burned on the parvis (square) of the cathedral, or thrown into the Seine according to other authors.",
+  "url": "https://en.wikipedia.org/wiki/Romanus_of_Rouen"
+ },
+ {
+  "id": "rouen",
+  "claim": "In the gargoyle version, the head and neck would not burn because they were tempered by the dragon's own fire-breath, so the head was mounted on the cathedral wall to ward off evil spirits.",
+  "url": "https://en.wikipedia.org/wiki/Gargoyle",
+  "note": "Wikipedia says 'multiple versions' exist: Romanus subdued it with a crucifix, or with the help of a condemned volunteer."
+ },
+ {
+  "id": "rouen",
+  "claim": "The Gargouille does not appear in the older accounts of Romanus's life and is recorded for the first time in 1394, so the story is much later than the saint (died c. 640; Wikipedia gives his activity as c. 631-641).",
+  "url": "https://en.wikipedia.org/wiki/Romanus_of_Rouen"
+ },
+ {
+  "id": "rouen",
+  "claim": "The legend is the origin of the privilege of Saint Romain: each year the bishops/chapter of Rouen could pardon one prisoner condemned to death, by letting the pardoned person lift the saint's reliquary (the fierte) in a procession; it lasted until 1790.",
+  "url": "https://en.wikipedia.org/wiki/Romanus_of_Rouen"
+ },
+ {
+  "id": "rouen",
+  "claim": "French Wikipedia dates the privilege: estimated beginning mid-12th century (per Amable Floquet); first documented conflict in 1210 (the royal castle governor of Rouen refused to hand over a prisoner and the chapter protested to Philippe-Auguste); exercised before Charles VIII in 1485; Fierte monument on the market square in 1542; excluded lese-majeste, heresy, counterfeiting, premeditated murder and rape by a declaration of Henri IV in 1597; last exercised 1790; declared abolished by Adrien Duport in 1791.",
+  "url": "https://fr.wikipedia.org/wiki/Privil%C3%A8ge_de_saint_Romain",
+  "note": "Timeline as summarised by the fetch tool from the French article; 1210 is a first documented dispute, not necessarily the founding date."
+ },
+ {
+  "id": "rouen",
+  "claim": "Process of the privilege: the chapter registered it eighteen days before Ascension, investigated prisoners on the three Rogation Days, the canons voted on Ascension morning, and the chosen prisoner lifted the reliquary three times before the procession to the cathedral.",
+  "url": "https://fr.wikipedia.org/wiki/Privil%C3%A8ge_de_saint_Romain"
+ },
+ {
+  "id": "rouen",
+  "claim": "Romanus's feast day is 23 October (set around 1090 along with the autumn Foire Saint-Romain).",
+  "url": "https://en.wikipedia.org/wiki/Romanus_of_Rouen"
+ },
+ {
+  "id": "rouen",
+  "claim": "English Wikipedia dates the privilege from 1156: the chapter of Rouen could pardon, on Ascension day, one person held in the city for murder; the pardoned prisoner knelt, lifted the shrine of Saint Romain three times at the Old Tower, and then followed the procession to the cathedral wearing a chaplet of flowers and carrying the shrine; the custom ended in the French Revolution.",
+  "url": "https://en.wikipedia.org/wiki/Privilege_of_St_Romain",
+  "note": "Dates differ: 1156 (en) vs 'mid-12th century estimate, first documented 1210' (fr, https://fr.wikipedia.org/wiki/Privil%C3%A8ge_de_saint_Romain). A search summary adds that the oldest lives of Romanus never mention the episode and that the story appears only at the end of the 14th century, as a justification for the canons' privilege (via search, geneacaux.fr PDF not opened)."
+ },
+ {
+  "id": "notredame",
+  "claim": "Notre-Dame's medieval gargoyles were added about 1240 as rain spouts; the 'Galerie des Chimeres' figures on the upper gallery between the towers are not medieval but 19th-century Gothic Revival additions by Viollet-le-Duc, and have no spout (decorative only).",
+  "url": "https://fr.wikipedia.org/wiki/Chim%C3%A8res_de_Notre-Dame_de_Paris"
+ },
+ {
+  "id": "notredame",
+  "claim": "The restoration was entrusted in 1843 to Jean-Baptiste-Antoine Lassus and Eugene Viollet-le-Duc and ran 1844-1864; the monsters were designed by Viollet-le-Duc himself.",
+  "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+  "note": "Dates vary by source: Wikipedia timeline says 1844-1864 (appointment 1844); French Wikipedia on Le Stryge and Euronews/19thC reviews say 1843-1864. Lassus died before the work ended."
+ },
+ {
+  "id": "notredame",
+  "claim": "French Wikipedia (Le Stryge) says the chimeras were made between 1848 and 1856 by a group of sculptors led by Adolphe Victor Geoffroy-Dechaume; the article on the chimeras says fifteen sculptors, the principal one Victor Pyanet, worked around Geoffroy-Dechaume.",
+  "url": "https://fr.wikipedia.org/wiki/Chim%C3%A8res_de_Notre-Dame_de_Paris",
+  "note": "Source: fr.wikipedia 'Le Stryge' (https://fr.wikipedia.org/wiki/Le_Stryge) for the 1848-1856 date."
+ },
+ {
+  "id": "notredame",
+  "claim": "A scholarly review of Michael Camille's book 'The Gargoyles of Notre-Dame' credits the collaboration of Viollet-le-Duc and the sculptor Victor Pyanet, and the campaign as 1843-1864, but later in the same review names the carver as Joseph Pyanet.",
+  "url": "https://19thc-artworldwide.org/autumn10/the-gargoyles-of-notre-dame",
+  "note": "The first name of Pyanet is given as Victor in two places (this review's opening and French Wikipedia) and as Joseph elsewhere in the same review; unresolved."
+ },
+ {
+  "id": "notredame",
+  "claim": "Michael Camille argues the Notre-Dame gargoyles and chimeras were not archaeological reconstructions but fresh nineteenth-century creations, based on an imagined past.",
+  "url": "https://19thc-artworldwide.org/autumn10/the-gargoyles-of-notre-dame"
+ },
+ {
+  "id": "notredame",
+  "claim": "Le Stryge ('the vampire') is the best-known chimera, the hunched figure with its chin on its hand looking over Paris; it was made famous by Charles Meryon's etching Le Stryge, and the strix itself is a night-spirit from Roman literature, an owl- or bat-like creature said to eat human flesh.",
+  "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+ },
+ {
+  "id": "notredame",
+  "claim": "Wikipedia's Gargoyle article says Notre-Dame has 54 chimeras from the 1843 restoration; Euronews says Viollet-le-Duc and Lassus added 56 new chimeras and replaced and repaired many of the original gargoyles.",
+  "url": "https://www.euronews.com/culture/2024/10/28/notre-dame-cathedrals-gargoyles-undergo-makeover-for-grand-reopening",
+  "note": "Disagreement: 54 (https://en.wikipedia.org/wiki/Gargoyle) vs 56 (Euronews). Use 'more than fifty'."
+ },
+ {
+  "id": "notredame",
+  "claim": "Before the 19th century, Archbishop Louis-Antoine de Noailles had the roof modified in 1726, removing gargoyles and fitting lead gutters, so most medieval gargoyles were already gone by Viollet-le-Duc's time.",
+  "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+  "note": "French Wikipedia (Gargouille) also says the gargoyles of Notre-Dame were almost all taken down in earlier centuries."
+ },
+ {
+  "id": "notredame",
+  "claim": "By the late 1980s several gargoyles and turrets had fallen or become too loose to stay in place, and a ten-year exterior renovation began in 1991.",
+  "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+ },
+ {
+  "id": "notredame",
+  "claim": "The fire of 15 April 2019 destroyed the wooden roof and spire but left the main structure intact; the cathedral reopened on 7-8 December 2024.",
+  "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+ },
+ {
+  "id": "notredame",
+  "claim": "Euronews (2023): a dozen sculptors in a workshop at the foot of the cathedral were recreating, from photographs and in clay, gargoyles and chimeras that did not survive the fire, each piece taking at least three weeks.",
+  "url": "https://www.euronews.com/culture/2023/03/22/the-gargoyles-of-the-notre-dame-de-paris-are-coming-back-to-life",
+  "note": "The article does not say how many were lost."
+ },
+ {
+  "id": "notredame",
+  "claim": "Euronews (2024) notes roughly 1,000 artisans worked on the restoration and that new carvings use stone from the quarry that supplied the original chimeras, La Carriere du Clocher at Bonneuil-en-Valois.",
+  "url": "https://www.euronews.com/culture/2024/10/28/notre-dame-cathedrals-gargoyles-undergo-makeover-for-grand-reopening"
+ },
+ {
+  "id": "notredame",
+  "claim": "Disagreement on the medieval gargoyles: Aleteia (French) states that none of the original gargoyles survived and that Viollet-le-Duc restored them in the 19th century, while France.fr (the national tourism site) says the gargoyles that extend the gutters date from the Middle Ages and the chimeras come from Viollet-le-Duc's imagination.",
+  "url": "https://fr.aleteia.org/2019/12/29/notre-dame-jour-par-jour-des-chimeres-deplacees-apres-lincendie/",
+  "note": "Second source: https://www.france.fr/fr/article/notre-dame-de-paris-en-6-secrets/ . English Wikipedia says the medieval gargoyles were removed with lead gutters installed in 1726. Safest wording: the spouts are medieval in origin (about 1240) but most of what stands today was remade in the 19th century."
+ },
+ {
+  "id": "notredame",
+  "claim": "Aleteia (29 Dec 2019) says all the stone creatures withstood the fire, several chimeras were taken down temporarily because they might be unstable, and the gargoyles, more deeply set in the stone, all stayed in place.",
+  "url": "https://fr.aleteia.org/2019/12/29/notre-dame-jour-par-jour-des-chimeres-deplacees-apres-lincendie/",
+  "note": "Disagrees with Euronews (2023), which says some of the creatures 'did not survive' the 2019 fire: https://www.euronews.com/culture/2023/03/22/the-gargoyles-of-the-notre-dame-de-paris-are-coming-back-to-life . Possible reconciliation: weathered ones were replaced during the restoration; neither source gives a number."
+ },
+ {
+  "id": "notredame",
+  "claim": "A search-result summary of the Rebatir Notre-Dame account says more than 2,000 statues and decorative features were restored or recreated, including 52 chimeras; the 52 figure does not match the 54 or 56 given elsewhere.",
+  "url": "https://fr.aleteia.org/2019/12/29/notre-dame-jour-par-jour-des-chimeres-deplacees-apres-lincendie/",
+  "note": "Via search only; the official Rebatir Notre-Dame page was not opened. Treat chimera counts (52, 54, 56) as unsettled."
+ },
+ {
+  "id": "notredame",
+  "claim": "The French Wikipedia article on Le Stryge is about Charles Negre's photograph of about 1853 (Musee d'Orsay) showing the photographer Henri Le Secq beside the Stryge on the north tower; it says the sculpture was drawn by Viollet-le-Duc in 1843 and the name was borrowed from Charles Meryon's famous etching.",
+  "url": "https://fr.wikipedia.org/wiki/Le_Stryge"
+ },
+ {
+  "id": "washington",
+  "claim": "Washington National Cathedral has 112 gargoyles (the last finished in 1987) and more than 3,000 grotesques and other architectural carvings.",
+  "url": "https://savingplaces.org/stories/slideshow-from-wild-to-whimsical-the-gargoyles-and-grotesques-of-washington-national-cathedral",
+  "note": "Counts vary by source: other pages cited in search say 1,130 grotesques vs 112 gargoyles, or over 1,400 grotesques; the 3,000 figure includes other carvings."
+ },
+ {
+  "id": "washington",
+  "claim": "The Cathedral announced a Design-A-Grotesque competition in the April 1984 issue of National Geographic World; about 1,400 children from 16 countries entered, and winners were announced in the February 1986 issue.",
+  "url": "https://blogs.weta.org/2023/05/03/luke-i-am-your-gargoyle-how-darth-vader-came-national-cathedral",
+  "note": "The post cites the Cathedral Archives (Record Group 133)."
+ },
+ {
+  "id": "washington",
+  "claim": "The grand prize went to 12-year-old Alison Garner of Edina, Minnesota, for 'Sagacious Grotesque', a toothy man holding an umbrella; she wrote 'I read that rainwater drains out of the mouths of gargoyles, so I gave my grotesque an umbrella for protection.'",
+  "url": "https://mentalfloss.com/article/655270/washington-national-cathedral-darth-vader-gargoyle"
+ },
+ {
+  "id": "washington",
+  "claim": "Three runners-up were a raccoon, a pigtailed girl with braces, and Darth Vader by 13-year-old Christopher Rader; all four designs were carved in stone by 1986.",
+  "url": "https://mentalfloss.com/article/655270/washington-national-cathedral-darth-vader-gargoyle",
+  "note": "Wikipedia says Rader 'won third place'; the Cathedral-archive post (WETA) and Mental Floss say one of three runners-up behind Garner. The WETA post gives Rader's home as Nebraska: https://blogs.weta.org/2023/05/03/luke-i-am-your-gargoyle-how-darth-vader-came-national-cathedral"
+ },
+ {
+  "id": "washington",
+  "claim": "The Darth Vader head was sculpted in clay by Jay Hall Carpenter (the Cathedral's first sculptor-in-residence) from Rader's drawing and Star Wars film frames, and carved in limestone by stone carver Patrick J. Plunkett; it sits high on the northwest tower and needs binoculars to see.",
+  "url": "https://blogs.weta.org/2023/05/03/luke-i-am-your-gargoyle-how-darth-vader-came-national-cathedral",
+  "note": "Wikipedia: https://en.wikipedia.org/wiki/Darth_Vader_grotesque and https://en.wikipedia.org/wiki/Washington_National_Cathedral agree on the names."
+ },
+ {
+  "id": "washington",
+  "claim": "Vader is technically a grotesque, not a gargoyle, because his mouth has no spout; Rader reasoned 'grotesques are often demons or monsters. Darth Vader is a lot like a demon.'",
+  "url": "https://mentalfloss.com/article/655270/washington-national-cathedral-darth-vader-gargoyle"
+ },
+ {
+  "id": "washington",
+  "claim": "Other Washington carvings: a caricature of then-master carver Roger Morigi on the north exterior of the nave, a yuppie businessman, a gas-mask-wearing pacifist, and two grandsons (one with an intact halo, one with a broken halo and a stolen cookie).",
+  "url": "https://en.wikipedia.org/wiki/Washington_National_Cathedral",
+  "note": "Businessman, pacifist and grandsons from https://mentalfloss.com/article/655270/washington-national-cathedral-darth-vader-gargoyle"
+ },
+ {
+  "id": "washington",
+  "claim": "Cathedral gargoyles were often gifts from donors; for example 'Bishop' was named for the donor's husband, a religious-newsletter editor, and shows a stole, a bell, and an inkwell and quill.",
+  "url": "https://savingplaces.org/stories/slideshow-from-wild-to-whimsical-the-gargoyles-and-grotesques-of-washington-national-cathedral"
+ },
+ {
+  "id": "salamanca",
+  "claim": "The astronaut is on the Puerta de Ramos (north door, facing the Palacio de Anaya) of Salamanca's New Cathedral; it was carved in stone in 1992 by stonemason (cantero) Miguel Romero during a restoration of the door, following the tradition of putting a contemporary element in each restoration.",
+  "url": "https://en.wikipedia.org/wiki/New_Cathedral_of_Salamanca"
+ },
+ {
+  "id": "salamanca",
+  "claim": "The door was restored because Salamanca was to host the 1993 exhibition Las Edades del Hombre; the restoration was run by the firm ProArt, whose director was Jeronimo Garcia, who commissioned several carvers including Miguel Romero.",
+  "url": "https://leadstories.com/hoax-alert/2020/11/fact-check-the-astronaut-stone-carving-on-the-cathedral-of-salamanca-is-not-a-mystery.html",
+  "note": "Correction to the brief: Jeronimo Garcia directed the restoration company; Miguel Romero is the carver credited with the astronaut. Wikipedia's 1993 exhibition link is at https://en.wikipedia.org/wiki/New_Cathedral_of_Salamanca"
+ },
+ {
+  "id": "salamanca",
+  "claim": "Nearby 1992 additions: below the astronaut a lynx, to its right a bull, below the bull a smiling dragon holding a three-scoop ice cream, and beside the door a crayfish, a stork and a hare standing for water, sky and earth.",
+  "url": "https://en.wikipedia.org/wiki/New_Cathedral_of_Salamanca",
+  "note": "Lead Stories describes the ice-cream eater only as 'a creature eating ice cream'; another site (Vintage News, via search) says a monkey eating an ice cream cone. Wikipedia, in English and Spanish, says dragon."
+ },
+ {
+  "id": "salamanca",
+  "claim": "The astronaut was damaged by vandals; on 20 September 2010 it appeared with a broken right arm.",
+  "url": "https://en.wikipedia.org/wiki/New_Cathedral_of_Salamanca"
+ },
+ {
+  "id": "paisley",
+  "claim": "Paisley Abbey's 'Alien' gargoyle is one of twelve new hand-carved gargoyles supplied for the restoration of the roof and parapet of the 13th-century nave; the carver David Lindsay says he sketched the alien the evening before the client meeting in 1993 as a homage to the 1979 film Alien, and was surprised when it was approved.",
+  "url": "https://www.stirlingcityheritagetrust.org/blog/story-behind-paisley-abbeys-alien-gargoyle",
+  "note": "First-hand account by the carver. Other sources date the work 'early 1990s' (Paisley Heritage) or 1991 (via search); Lindsay's own date for the sketch is 1993."
+ },
+ {
+  "id": "paisley",
+  "claim": "Each Paisley Abbey gargoyle took about four weeks to carve, and all twelve were designed to be functional, with a channel for water, each different, drawing on 20th-century culture.",
+  "url": "https://www.stirlingcityheritagetrust.org/blog/story-behind-paisley-abbeys-alien-gargoyle"
+ },
+ {
+  "id": "paisley",
+  "claim": "The Alien gargoyle went viral on 23 August 2013 after a photo was posted online; Wikipedia adds that a photograph of it first appeared on the internet in 1997.",
+  "url": "https://www.stirlingcityheritagetrust.org/blog/story-behind-paisley-abbeys-alien-gargoyle",
+  "note": "The 1997 line is from https://en.wikipedia.org/wiki/Paisley_Abbey"
+ },
+ {
+  "id": "paisley",
+  "claim": "Wikipedia says the Edinburgh stonemason was hired to replace twelve crumbling stone gargoyles during a 1990s restoration; Lindsay himself says it is not an exact copy of the film creature.",
+  "url": "https://en.wikipedia.org/wiki/Paisley_Abbey",
+  "note": "The not-an-exact-replica remark is from https://paisleyheritage.org.uk/post/the-many-gargoyles-of-paisley-abbey-the-work-of-david-lindsay"
+ },
+ {
+  "id": "chrysler",
+  "claim": "The Chrysler Building (architect William Van Alen, completed 1930, 1,046 ft) has about fifty metal ornaments at the corners of five floors that recall Gothic gargoyles; the 31st floor has gargoyles and replicas of the 1929 Chrysler radiator caps, and the 61st floor has eagles.",
+  "url": "https://en.wikipedia.org/wiki/Chrysler_Building"
+ },
+ {
+  "id": "chrysler",
+  "claim": "The 31st-floor corner ornaments are large car-hood ornaments shaped like Mercury's winged helmet, set above a frieze of hubcaps and fenders; the building's gargoyles and eagles were meant to represent flight and the machine age.",
+  "url": "https://en.wikipedia.org/wiki/Chrysler_Building"
+ },
+ {
+  "id": "chrysler",
+  "claim": "Ornaments, window frames, crown and needle are in 'Nirosta' steel, an 18-8 (18% chromium, 8% nickel) stainless alloy developed by Krupp in Germany; it was the first use of this steel in an American project.",
+  "url": "https://en.wikipedia.org/wiki/Chrysler_Building"
+ },
+ {
+  "id": "chrysler",
+  "claim": "A 1930-era description quoted in the National Historic Landmark nomination says 'Gargoyles are reminiscent of ornamental radiator caps. Decorative bosses are derived from hub cap design.'",
+  "url": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/76001237_text",
+  "note": "The quote is from a contemporary account reprinted in the 1976 NHL form; a second quoted passage in the same form places 'great eagles of shining metal' on the thirty-first floor, which disagrees with the 61st floor given by Wikipedia."
+ },
+ {
+  "id": "chrysler",
+  "claim": "Margaret Bourke-White photographed the building from a scaffold in December 1929 and was especially taken with the massive eagle's-head figures projecting from it.",
+  "url": "https://en.wikipedia.org/wiki/Chrysler_Building"
+ },
+ {
+  "id": "chrysler",
+  "claim": "NOT FOUND: a named sculptor for the Chrysler eagles or radiator-cap ornaments; sources credit the architect Van Alen's design and say the steel ornaments were made as part of the Nirosta metalwork.",
+  "url": "https://en.wikipedia.org/wiki/Chrysler_Building"
+ },
+ {
+  "id": "chrysler",
+  "claim": "Restoration work in 1995-1996 (Hoffman Architects) re-welded several parts of the gargoyles; the stainless elements were first polished in 1961.",
+  "url": "https://en.wikipedia.org/wiki/Chrysler_Building"
+ },
+ {
+  "id": "forbidden",
+  "claim": "The Palace Museum calls the dragon spouts chishou ('chi-dragon head'); they are set around the three-tiered sumeru terrace of the Hall of Supreme Harmony as drainage spouts, and in torrential rain water pours from the mouths of 'over 1,000' of them.",
+  "url": "https://artsandculture.google.com/story/kAUxzfSXqtpjDg",
+  "note": "Palace Museum text on Google Arts & Culture."
+ },
+ {
+  "id": "forbidden",
+  "claim": "Count 1,142: Palace Museum researcher Zhou Qian told a Tsinghua audience that the terrace of the three front halls has 1,142 dragon-head drain beasts that produce the 'thousand dragons spitting water' sight in rain.",
+  "url": "https://www.tsinghua.edu.cn/info/1180/108139.htm",
+  "note": "Zhou Qian calls the figures gongfu (蚣蝮) rather than chishou. Another site, ChinaTravel, gives 1,412 marble dragon heads for the three halls (https://www.chinatravel.com/beijing/forbidden-city/hall-of-preserving-harmony) and Google Arts says 'over 1,000'. Use 1,142 with 'more than a thousand' as the safe wording."
+ },
+ {
+  "id": "forbidden",
+  "claim": "Press coverage of the downpour on 22 July 2023 reported 1,142 chishou on the terraces of the three great halls spouting at once, producing the '千龙吐水' (thousand dragons spit water) sight; the terrace surface slopes slightly outward so rain runs to the spouts.",
+  "url": "https://www.thepaper.cn/newsDetail_forward_24096052"
+ },
+ {
+  "id": "forbidden",
+  "claim": "Our China Story states the white marble chishou under the balustrades of the Hall of Supreme Harmony number 1,142, and that rain pours from the dragons' mouths in the '千龙吐水' sight.",
+  "url": "https://www.ourchinastory.com/cn/8219"
+ },
+ {
+  "id": "forbidden",
+  "claim": "The three great halls (Taihe, Zhonghe, Baohe) stand on a three-tier white marble base 8.13 m high, ringed by marble balustrades with stone dragon-head spouts beneath; the water from them forms the '千龙吐水' view.",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%92%8C%E6%AE%BF"
+ },
+ {
+  "id": "forbidden",
+  "claim": "The Palace Museum gives the large terrace as 129 m east-west by 195 m north-south, a 1:1.5 ratio matching the three-hall courtyard (234 m by 353 m); from above it resembles the character 土 (earth).",
+  "url": "https://artsandculture.google.com/story/1AWx0BllwxhDJg",
+  "note": "Palace Museum story 'Hall of Supreme Harmony' on Google Arts & Culture."
+ },
+ {
+  "id": "forbidden",
+  "claim": "Chi (螭, chī) is a hornless dragon, one of the nine sons of the dragon in legend; Chinese Wikipedia says its wide mouth and long belly can hold great quantities of water, so it is used for drain mouths, called 螭首散水, and from the Ming dynasty on it is used specifically for drains.",
+  "url": "https://zh.wikipedia.org/wiki/%E8%9E%AD%E9%A6%96"
+ },
+ {
+  "id": "forbidden",
+  "claim": "Chiwen in English Wikipedia is likewise 'hornless-dragon mouth'; chishou (螭首) and chitou (螭頭) both mean 'hornless-dragon head'.",
+  "url": "https://en.wikipedia.org/wiki/Chiwen"
+ },
+ {
+  "id": "forbidden",
+  "claim": "NOT FOUND: a sourced statement that the corner dragon heads on the Taihe Hall terrace are larger than the others; none of the pages opened says so.",
+  "url": "https://artsandculture.google.com/story/kAUxzfSXqtpjDg"
+ },
+ {
+  "id": "forbidden",
+  "claim": "The same drain style is used at the Temple of Heaven's Hall of Prayer for Good Harvests, where each of the three marble tiers has 99 chishou, shaped as clouds (lowest tier), phoenixes (middle) and dragons (top).",
+  "url": "https://www.bjnews.com.cn/detail/1784434400129176.html",
+  "note": "Beijing News quotes the official data (upper tier dragons, middle phoenixes, lower tier clouds) and Temple of Heaven staff (first tier cloud, second phoenix, third dragon, counting from the bottom); the two agree."
+ },
+ {
+  "id": "chiwen",
+  "claim": "Chiwen (蚩吻) is a roof-ridge-end ornament in Chinese architecture and the name of a dragon of the nine sons of the dragon; the name combines chi (hornless dragon) and wen (mouth); English Wikipedia says they resemble gargoyles as ornaments or spouts but are unrelated to the mythical character.",
+  "url": "https://en.wikipedia.org/wiki/Chiwen"
+ },
+ {
+  "id": "chiwen",
+  "claim": "Evolution: the Han dynasty chiwei (鴟尾, 'owl tail') ridge ornament shaped like wings; mid-Tang the fish-like chiwen appeared beside it; by the Song dynasty chiwen replaced chiwei and looked more like a dragon; the Yingzao Fashi (1103) fixes its construction and measures.",
+  "url": "https://en.wikipedia.org/wiki/Chiwen",
+  "note": "The 1103 date for the Yingzao Fashi is not in the fetched page; it states only that the treatise details chiwen."
+ },
+ {
+  "id": "chiwen",
+  "claim": "Fire protection: the Tang book Su Shi Yan Yi says a sea creature called chiwen was put on roofs from the Han dynasty to protect them from fire; the Tai Ping Yu Lan quotes a Yue shaman after the Baoliang Hall fire saying a sea fish whose tail resembled an owl brought rain when it lashed the waves, so its image was set on roofs to ward off fire.",
+  "url": "https://en.wikipedia.org/wiki/Chiwen",
+  "note": "The Taiping Yulan story is from https://zh.wikipedia.org/wiki/%E9%B4%9F%E5%B0%BE and https://www.visitbeijing.com.cn/article/47QkIqSu8sf"
+ },
+ {
+  "id": "chiwen",
+  "claim": "Sources disagree about its trait: the Ming Wuzazu (Xie Zhaozhe) lists 'chiwen likes to swallow' (蚩吻好吞), so it sits on the ridge ends to swallow evil influences; another Ming list of the nine sons says it 'likes to look out' (性好望), so it stands on the roof corner.",
+  "url": "https://zh.wikipedia.org/wiki/%E9%BE%8D%E7%94%9F%E4%B9%9D%E5%AD%90",
+  "note": "English Wikipedia quotes the Wuzazu: 'The ch'i-wen, which like swallowing, are placed on both ends of the ridgepoles of roofs.' Position in the nine-sons list also varies (second to ninth)."
+ },
+ {
+  "id": "chiwen",
+  "claim": "Sword: from the Yuan dynasty a sword hilt appears on the back of the dragon-form ridge end, and in the Qing the dragon head glares and bites the main ridge with a sword stuck in its back; a legend says Xu Xun, a Jin-dynasty Daoist, pinned it so it could not escape, while a practical account says the sword hilt plugs the opening used to pour in filling material.",
+  "url": "https://zh.wikipedia.org/wiki/%E6%AD%A3%E5%90%BB",
+  "note": "Legend and practical reason via a search summary of visitbeijing.com.cn and other Chinese sites; the Wikipedia article covers the Yuan/Qing development and the 'wen suo' iron chain."
+ },
+ {
+  "id": "chiwen",
+  "claim": "The largest chiwen in China is on the Hall of Supreme Harmony (Taihe Dian): 3.4 m high, 2.68 m wide, 0.32 m thick, made of 13 hollow glazed pieces (called 十三拼) and weighing about 4.3 tonnes; it is the biggest in the Forbidden City.",
+  "url": "https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%92%8C%E6%AE%BF",
+  "note": "Same figures in https://zh.wikipedia.org/wiki/%E6%AD%A3%E5%90%BB . The Taihe roof also carries a figure of an immortal riding a phoenix plus ten beasts (dragon, phoenix, lion, celestial horse, sea horse, suanni, yayu, xiezhi, douniu, xingshi), the most of any surviving hall."
+ },
+ {
+  "id": "onigawara",
+  "claim": "Onigawara ('ogre tiles') are roof ornaments at ridge ends in Japanese architecture, depicting an oni or fearsome beast; they were found on Buddhist temples and are now used on many traditionally styled buildings.",
+  "url": "https://en.wikipedia.org/wiki/Onigawara"
+ },
+ {
+  "id": "onigawara",
+  "claim": "English Wikipedia: floral designs (hanagawara) came before the ogre face; the present design is thought to come from the oni-ita, a board painted with an oni face meant to stop roof leaks; in the Nara period tiles had other motifs and later gained ogre-like features and became strongly three-dimensional.",
+  "url": "https://en.wikipedia.org/wiki/Onigawara"
+ },
+ {
+  "id": "onigawara",
+  "claim": "Japanese Wikipedia: onigawara are ridge-end tiles with a weatherproofing role, the oni motif is meant to ward off evil; the practice reached Japan from China and spread rapidly in the Nara period, and from then the ogre face became the main motif replacing lotus patterns.",
+  "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E7%93%A6",
+  "note": "This page also repeats a theory that the idea travelled the Silk Road from the Gorgoneion tradition of Palmyra; treat as a theory."
+ },
+ {
+  "id": "onigawara",
+  "claim": "Dates disagree: Designing Buildings says tiles carried flower or plant designs until the late 12th century and the oni design became prevalent with the Kamakura period (about 1185), and calls the practical function protection against weathering and the spiritual function guarding against evil.",
+  "url": "https://designingbuildings.co.uk/wiki/Onigawara",
+  "note": "Compare Nara period (Japanese Wikipedia) vs Kamakura (Designing Buildings, and the Japan Experience site via search). No source opened ties onigawara to fire protection (that belongs to shachihoko)."
+ },
+ {
+  "id": "onigawara",
+  "claim": "The craftsmen who make onigawara are called onishi (鬼師); as of 2021 there were said to be 70-80 in Japan, about 50 of them in the Sanshu tile region of Mikawa (Aichi).",
+  "url": "https://ja.wikipedia.org/wiki/%E9%AC%BC%E7%93%A6"
+ },
+ {
+  "id": "shachihoko",
+  "claim": "The shachihoko (鯱, shachi) is a creature with the head of a dragon or tiger and the body of a carp; it is said to swallow great quantities of water and control rain, and is placed in male-female pairs on the ridge ends of castle roofs to protect against fire.",
+  "url": "https://en.wikipedia.org/wiki/Shachihoko",
+  "note": "Wikipedia says dragon or tiger; Nagoya Castle's article says 'tiger-headed dolphins or carp'."
+ },
+ {
+  "id": "shachihoko",
+  "claim": "Origin: Japanese Wikipedia says the shachi descends from the Chinese chiwen, which reached Japan by the Kamakura period (a picture scroll of about 1295 shows one on a roof); the earliest surviving shachi is at Daihoji in Nagano (late Kamakura to early Muromachi), the earliest castle one is said to be Azuchi Castle (1576), and the name shachihoko for the roof ornament dates from the mid-Edo period.",
+  "url": "https://ja.wikipedia.org/wiki/%E9%AF%B1",
+  "note": "English Wikipedia (https://en.wikipedia.org/wiki/Shachihoko) says the chiwen was popularised in Japan in the Nara and Heian periods, became widespread in the Sengoku period, and that the shachi first stood on roofs in the Muromachi period as a sign of the lord's authority; it also proposes a link to the Indian makara. Azuchi 1576 is from https://network2010.org/article/2170 ."
+ },
+ {
+  "id": "shachihoko",
+  "claim": "Nagoya Castle (built 1612) carries a pair of golden shachi (kinshachi) on the main keep; the originals were burned in the air raid of 14 May 1945, and second-generation shachi were cast at the Osaka Mint and set up when the rebuilt keep was completed on 1 October 1959.",
+  "url": "https://en.wikipedia.org/wiki/Nagoya_Castle",
+  "note": "Dates from https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%9F%8E ; English Wikipedia's 'March 1959 (Showa 39)' is internally inconsistent (Showa 34 = 1959)."
+ },
+ {
+  "id": "shachihoko",
+  "claim": "Current shachi: the male (north) is 2.621 m high, weighs 1,272 kg (44.69 kg of it gold) with 112 scales; the female (south) is 2.579 m high, weighs 1,215 kg (43.39 kg gold) with 126 scales; both are covered in 0.15 mm thick 18-carat gold plate.",
+  "url": "https://en.wikipedia.org/wiki/Nagoya_Castle",
+  "note": "Chinese Wikipedia gives 88.3 kg for the pair's gold and a 2.74 m height for the 1612 originals."
+ },
+ {
+  "id": "shachihoko",
+  "claim": "The 1612 originals were built over a wooden core with lead, copper and gold sheet from pounded gold coins; the gold is given as 17,975 ryo (English Wikipedia) or 1,940 Keicho oban, 215.3 kg of pure gold (Chinese Wikipedia).",
+  "url": "https://en.wikipedia.org/wiki/Nagoya_Castle",
+  "note": "Disagreement in units: 17,975 ryo (en) vs 1,940 oban / 215.3 kg (https://zh.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%9F%8E)."
+ },
+ {
+  "id": "shachihoko",
+  "claim": "The golden shachi were recast three times in the Edo period (1730, 1827 with less gold, 1846) because the Owari domain was in debt; wire mesh covered them against birds and thieves.",
+  "url": "https://en.wikipedia.org/wiki/Nagoya_Castle"
+ },
+ {
+  "id": "shachihoko",
+  "claim": "Thefts: gold scales were stolen in the Meiji era (including 3 scales in 1871 and 3 in 1876, per Japanese Wikipedia) and on 6 January 1937 when 58 of the 110 scales on the male's body were found missing during a survey; the thief was arrested at a sale in Osaka about three weeks later and got 10 years, and the Nagoya mayor resigned.",
+  "url": "https://ja.wikipedia.org/wiki/%E9%AF%B1",
+  "note": "Details from the Japanese Wikipedia articles on the shachi and Nagoya Castle (https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%9F%8E). Dates vary: 6 Jan vs 7 Jan for the discovery, arrest 27 vs 28 Jan. English Wikipedia says the shachi have been stolen three times since the Meiji era."
+ },
+ {
+  "id": "shachihoko",
+  "claim": "After the war the burned remains were seized by the Allied occupation, passed to the Ministry of Finance, and were returned to Nagoya in 1967; the city made a flag finial and a gold teakettle from the recovered gold.",
+  "url": "https://ja.wikipedia.org/wiki/%E9%AF%B1"
+ },
+ {
+  "id": "shachihoko",
+  "claim": "The model for the second-generation shachi was the sculptor Suzuki Motohiro (鈴木基弘; given-name reading not checked), and they were cast at the Osaka Mint.",
+  "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%9F%8E"
+ },
+ {
+  "id": "hiti",
+  "claim": "A dhunge dhara (Nepali 'stone faucet') or hiti (Newar) is a traditional carved-stone water spout fed by underground sources, found across Nepal and part of a drinking-water system commissioned by rulers of ancient and medieval Nepal.",
+  "url": "https://en.wikipedia.org/wiki/Dhunge_dhara"
+ },
+ {
+  "id": "hiti",
+  "claim": "Most spouts are shaped like the makara (also called hitimanga), with a crocodile's snout, an elephant's trunk, boar's tusks and ears and a peacock's tail; the body forms an open channel, and often other animals (goat, ram, bull) emerge from the mouth in a telescoping sequence.",
+  "url": "https://en.wikipedia.org/wiki/Dhunge_dhara"
+ },
+ {
+  "id": "hiti",
+  "claim": "Manga Hiti at Mangal Bazar in Patan is considered the oldest working dhunge dhara on record and was built in 570 AD; the date is said to be engraved on a stone within the hiti. The first known hiti at Hadi Gaun in Kathmandu dates to 550 AD.",
+  "url": "https://en.wikipedia.org/wiki/Dhunge_dhara",
+  "note": "The 570 AD date is from Wikipedia, which cites an inscription; not independently confirmed here."
+ },
+ {
+  "id": "hiti",
+  "claim": "Count: of 389 stone spouts found in Kathmandu Valley in 2010, 233 were still in use serving about 10% of Kathmandu's population; a 2019 survey by the Kathmandu Valley Water Supply Management Board found 573 dhunge dharas on record in ten municipalities, 94 lost entirely, and 224 still producing water.",
+  "url": "https://en.wikipedia.org/wiki/Dhunge_dhara",
+  "note": "Numbers differ by survey: 389 (2010) vs 573 on record (2019, includes ones lost)."
+ },
+ {
+  "id": "hiti",
+  "claim": "They are still in daily use: people drink from, wash at and fetch water from hitis, and water from Manga Hiti is used daily as holy water for the Krishna Mandir in Patan; the 2019 survey measured 2,433,348 litres per day across the valley's working spouts, and the dhunge dharas of Kathmandu city alone were estimated at 382,399 litres per day.",
+  "url": "https://en.wikipedia.org/wiki/Dhunge_dhara",
+  "note": "For comparison the valley's dhunge dharas were credited with 2.95 million litres per day in 2008."
+ },
+ {
+  "id": "hiti",
+  "claim": "The hitis of Kathmandu Valley were named to the 2022 World Monuments Watch (25 sites), announced in March 2022.",
+  "url": "https://nepalitimes.com/saving-nepal-s-hiti-heritage"
+ },
+ {
+  "id": "dendera",
+  "claim": "Archaeology magazine notes that some Egyptian temples, such as Edfu and the Temple of Hathor at Dendera, have waterspouts, often shaped like lions' heads, designed to channel rainwater from their roofs.",
+  "url": "https://archaeology.org/issues/january-february-2024/digs-discoveries/when-it-rains-it-pours/"
+ },
+ {
+  "id": "dendera",
+  "claim": "The Global Egyptian Museum describes a large lion's head that formed part of a gargoyle on a Fifth Dynasty temple, and says such pieces were found in great quantities and in good condition in the Greco-Roman temples at Edfu and Philae.",
+  "url": "https://www.globalegyptianmuseum.org/record.aspx?id=15270"
+ },
+ {
+  "id": "dendera",
+  "claim": "The same museum record quotes the temple inscriptions that the lions protect the sanctuary as well as serving as gargoyles: 'They drink the blood, break the bones, and scratch the liver of the enemies of the god.'",
+  "url": "https://www.globalegyptianmuseum.org/record.aspx?id=15270",
+  "note": "The record gives a French version too: 'ecrasent le foie'."
+ },
+ {
+  "id": "dendera",
+  "claim": "The Brooklyn Museum lion waterspout (Late to Ptolemaic Period, 664-30 BCE, limestone, acc. 35.1311) is described as channelling occasional storm water from temple roofs and walls, with the lion imagery believed to have magical qualities and to guard the structure; the museum thinks this piece was a model that stonemasons copied.",
+  "url": "https://www.brooklynmuseum.org/objects/44922",
+  "note": "Via search summary; the Brooklyn Museum page itself refused the fetch. The blog Tales from the Two Lands repeats it: https://talesfromthetwolands.org/2024/08/16/waterspout-in-the-shape-of-a-lion/"
+ },
+ {
+  "id": "dendera",
+  "claim": "At Dendera the water running off the roof passes over magical texts and is said to take up their power for healing or ritual use; examples of the lion spouts can be seen high on the temple wall.",
+  "url": "https://talesfromthetwolands.org/2024/08/16/waterspout-in-the-shape-of-a-lion/",
+  "note": "A blog (not a museum), so lower authority."
+ },
+ {
+  "id": "dendera",
+  "claim": "NOT FOUND: a count of the lion-headed spouts on the roof of the Dendera Hathor temple, or on Edfu, in any page opened. The Dendera Wikipedia page only mentions the processional staircase to the roof.",
+  "url": "https://en.wikipedia.org/wiki/Dendera_Temple_complex"
+ },
+ {
+  "id": "dendera",
+  "claim": "An Egyptian legal papyrus of Ptolemy II's time (Demotic Legal Code of Hermopolis West) even covers disputes over rainwater thrown from a neighbour's roof gutters, so heavy rain was a legal problem as well as an engineering one.",
+  "url": "https://archaeology.org/issues/january-february-2024/digs-discoveries/when-it-rains-it-pours/"
+ },
+ {
+  "id": "greek",
+  "claim": "Wikipedia on the Temple of Zeus at Olympia (built c. 472-456 BC): 102 lion-head waterspouts projected from the edge of the roof, of which 39 are extant.",
+  "url": "https://en.wikipedia.org/wiki/Temple_of_Zeus,_Olympia",
+  "note": "Uneven styles show the roof was repaired in the Roman period. The Gargoyle article adds that they were marble and many snapped off from their weight and were replaced."
+ },
+ {
+  "id": "greek",
+  "claim": "In classical architecture the sima is the upturned edge of the roof that acts as a gutter; early simas had tube-like spouts, but by the middle of the 6th century BC most had spouts shaped as animal heads: lions were common, but ram and dog heads also occur.",
+  "url": "https://en.wikipedia.org/wiki/Sima_(architecture)"
+ },
+ {
+  "id": "greek",
+  "claim": "The Acropolis Museum shows a lion-head spout from the Old Athena Temple (525-500 BC): part of a roof-gutter ending in a lion's head from whose open mouth water drained, painted blue (mane), yellow (ears), brown (irises) and red (mouth).",
+  "url": "https://www.theacropolismuseum.gr/en/old-athena-temple-lion-head-spout"
+ },
+ {
+  "id": "greek",
+  "claim": "The Cambridge Museum of Classical Archaeology holds a cast of a lion's head waterspout (c. 420 BCE, from the temple at Bassae, with a question mark) described as throwing rainwater from the roof clear of the temple's walls and columns, set at the end of the sloping sima above the frieze.",
+  "url": "https://museum.classics.cam.ac.uk/collections/casts/lions-head-waterspout"
+ },
+ {
+  "id": "greek",
+  "claim": "Vitruvius (De architectura 3.5.15) prescribes that on the sima of temple sides a lion's head goes over each column and others between at equal distances; those over the columns are to be bored through to pass rainwater from the gutter, but the ones in between must be solid so water does not fall on people passing between the columns.",
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Vitruvius/3*.html",
+  "note": "This is the source for the 'dummy' lion heads with no hole; it is a Roman architect's prescription (first century BC), and these pages do not show how closely surviving Greek temples followed it. Another translation: https://cts.perseids.org/read/latinLit/phi1056/phi001/perseus-eng1/3.5.15"
+ },
+ {
+  "id": "greek",
+  "claim": "The German Wikipedia says ancient temples first let water fall along the whole eave, then from the 6th century BC collected it in a gutter formed by the sima and shed it through evenly spaced spouts, first simple clay tubes and from the 5th century BC usually lion heads (less often dog heads), sometimes theatre masks and similar grotesque faces.",
+  "url": "https://de.wikipedia.org/wiki/Wasserspeier"
+ },
+ {
+  "id": "greek",
+  "claim": "The Tower of the Winds in Athens (c. 50 BC) has stone relief lion masks below the roof functioning as water spouts.",
+  "url": "https://en.wikipedia.org/wiki/Lion_mask"
+ },
+ {
+  "id": "greek",
+  "claim": "In Hindu temples the simha-pranala (lion-form drain) is thought to be inspired by the lion-head spouts common on Classical Greek, Hellenistic and Roman temples, and the grasa-pranala (kirtimukha form) by the early Greek gorgon.",
+  "url": "https://en.wikipedia.org/wiki/Pranala",
+  "note": "The gorgon claim is Wikipedia's wording ('probably', 'inspired') and is a scholarly hypothesis."
+ },
+ {
+  "id": "borobudur",
+  "claim": "Borobudur (Java, built under the Sailendra dynasty) has a drainage system with 100 spouts installed at the corners, each a uniquely carved gargoyle in the form of a giant or a makara, to deal with heavy tropical run-off.",
+  "url": "https://en.wikipedia.org/wiki/Borobudur",
+  "note": "Count '100' appears in Wikipedia and several tourism sites via search; an official Indonesian conservation source for the number was not reachable."
+ },
+ {
+  "id": "borobudur",
+  "claim": "The Indonesian word for these spouts is jaladwara (patung pancuran air, 'water-spout statues'); UNESCO's Jakarta brochure says that in the first restoration (1907-1911) engineer Theodore van Erp repaired the water drainage system through the jaladwara.",
+  "url": "https://webarchive.unesco.org/web/20151228121957/http://unesdoc.unesco.org/images/0022/002244/224474M.pdf",
+  "note": "Brochure 'Conserving the Borobudur Temple for the Future' (2013)."
+ },
+ {
+  "id": "borobudur",
+  "claim": "In the second conservation (1973-1982, UNESCO with Indonesia) large parts of the temple were dismantled, reinforced with concrete, and an internal drainage system was added; endoscope cameras now check it. Wikipedia adds that over one million stones were dismantled once the actual work began in 1975.",
+  "url": "https://webarchive.unesco.org/web/20151228121957/http://unesdoc.unesco.org/images/0022/002244/224474M.pdf",
+  "note": "Million stones and the 1975 start are from https://en.wikipedia.org/wiki/Borobudur ; the UNESCO brochure dates the second restoration 1973-1982 (Wikipedia says a master plan was made in 1973)."
+ },
+ {
+  "id": "borobudur",
+  "claim": "After the 2010 Merapi eruption ash clogged the drainage; more than 55,000 stone blocks were dismantled to restore the drainage system, with US$3 million from UNESCO.",
+  "url": "https://en.wikipedia.org/wiki/Borobudur"
+ },
+ {
+  "id": "borobudur",
+  "claim": "In 1896 King Chulalongkorn of Siam took eight cartloads of sculpture from Borobudur with the colonial government's consent, including two lions, one gargoyle (waterspout), kala motifs and a guardian statue.",
+  "url": "https://en.wikipedia.org/wiki/Borobudur",
+  "note": "Some of these giant waterspouts and kala are now displayed in Bangkok."
+ },
+ {
+  "id": "borobudur",
+  "claim": "NOT FOUND: a source explaining in detail how water flows from each gallery floor to the corner spouts; only the statement of 100 corner spouts and the later internal drainage system were found.",
+  "url": "https://en.wikipedia.org/wiki/Borobudur"
+ },
+ {
+  "id": "kirtimukha",
+  "claim": "Kirtimukha (Sanskrit 'glorious face', kirti 'glory' + mukha 'face') is a fierce, fanged, devouring face very common on Hindu temple architecture in South and Southeast Asia, and also in Buddhist architecture, with an origin in the Skanda Purana and Shiva Purana.",
+  "url": "https://en.wikipedia.org/wiki/Kirtimukha"
+ },
+ {
+  "id": "kirtimukha",
+  "claim": "Legend (Zimmer's retelling): the demon-king Jalandhara sent Rahu to demand Shiva's wife Parvati; Shiva opened his third eye and a lion-headed, ravenous demon sprang out; when Rahu begged mercy there was nothing for the creature to eat, so Shiva told it to eat itself; it devoured itself from the feet and hands up until only the face remained, and Shiva named it Kirttimukha, 'Face of Glory', to stay at his door.",
+  "url": "https://wordandsilence.com/2018/02/01/the-great-myths-25-the-monster-kirttimukha-the-face-of-glory-hindu",
+  "note": "A blog retelling Heinrich Zimmer. The current English Wikipedia text (https://en.wikipedia.org/wiki/Kirtimukha) tells it differently: Shiva suggests the creature feed on human selfishness, greed and attachment; the self-eating ending is not in that version. A 2024 copy of Wikipedia, via search, has the self-eating ending."
+ },
+ {
+  "id": "kirtimukha",
+  "claim": "Zimmer is quoted as saying the Kirtimukha is chiefly an apotropaic demon-mask, a guardian of the threshold; it sits over the lintel of the gate to the inner sanctum, or tops a temple pinnacle, and to count as one it must be swallowing.",
+  "url": "https://en.wikipedia.org/wiki/Kirtimukha"
+ },
+ {
+  "id": "kirtimukha",
+  "claim": "In Khmer temples the kala is a ferocious monster symbolic of all-devouring time, shown as a head with a large upper jaw and no lower jaw, on lintels, tympana and walls; some disgorge vine-like plants.",
+  "url": "https://en.wikipedia.org/wiki/Khmer_architecture",
+  "note": "The article speculates that the missing lower jaw echoes skulls built into walls as protective magic."
+ },
+ {
+  "id": "kirtimukha",
+  "claim": "In Thai the kala face is หน้ากาล (na kan); a Thai arts magazine describes it as the one who swallows all things, even itself, like time; it is seen on lintels (ทับหลัง) of Khmer stone temples with gods such as Shiva, Yama and Indra above; Si Thep, a UNESCO World Heritage site, has a unique 'kala face seizing naga' lintel in Thailand.",
+  "url": "https://mgronline.com/travel/detail/9670000037185",
+  "note": "The general meaning is from a Silpa-Mag search summary (https://www.silpa-mag.com/?p=131212, blocked to fetchers), so 'via search'; the Si Thep lintel is from the MGR Online article."
+ },
+ {
+  "id": "kirtimukha",
+  "claim": "In Java the equivalent is the Kala head over temple doors: the Cleveland Museum of Art describes Kala masks, fiercest in eastern Java (10th to 15th century), with bulging eyes and curved fangs standing for Time and Death, the devourer of all creation, set above an entry to protect the site and mark symbolic rebirth.",
+  "url": "https://www.clevelandart.org/art/1975.104"
+ },
+ {
+  "id": "kirtimukha",
+  "claim": "In Bali the paduraksa gate has the head of a bhoma or fierce kala carved over the opening, with lion effigies or a pair of giants (dvarapala) at the sides; they are believed to drive away evil spirits.",
+  "url": "https://en.wikipedia.org/wiki/Paduraksa",
+  "note": "Banaspati (Indonesian 'lord of the forest', also a fire spirit) is linked to such temple-door giant heads by the Indonesian Wikipedia: https://id.wikipedia.org/wiki/Banaspati . A Boma/Bhoma source was not reached."
+ },
+ {
+  "id": "kirtimukha",
+  "claim": "A Cleveland Museum caption notes Kala is related to the faces of glory on Indian monuments, but both it and its volcanic stone are distinctively Javanese.",
+  "url": "https://www.clevelandart.org/art/1975.104"
+ },
+ {
+  "id": "thai",
+  "claim": "Wat Phra Kaew (Bangkok) has twelve yaksha (giants) guarding six of its gates along three sides of the wall; they are characters from the Ramakien, each about 5 m (16 ft) tall and clenching a mace.",
+  "url": "https://en.wikipedia.org/wiki/Wat_Phra_Kaew"
+ },
+ {
+  "id": "thai",
+  "claim": "The twelve Wat Phra Kaew yaksha are Suriyaphop, Intarachit, Mangkonkan, Wirunhok, Thotsakhirithon, Thotsakhiriwan, Chakkrawat, Atsakanmala, Thotsakan (green, two tiers of smaller heads on his crown), Sahatsadecha (white, multiple heads), Maiyarap and Wirunchambang.",
+  "url": "https://en.wikipedia.org/wiki/Wat_Phra_Kaew"
+ },
+ {
+  "id": "thai",
+  "claim": "At Wat Arun two yaksha from the Ramakien guard the entrance to the ubosot: the white one is Sahassa Deja (Sahatsadecha) and the green one is Thotsakan, the Ramayana's Ravana.",
+  "url": "https://en.wikipedia.org/wiki/Wat_Arun"
+ },
+ {
+  "id": "thai",
+  "claim": "Thai Wikipedia: ทวารบาล (thawanban, door guardian) means the keeper of a door or entrance, usually a fierce warrior or yaksha with a weapon, put at Buddhist, Hindu and Jain sites; in Khmer art guardians include Nandikeshvara, Mahakala, lions, monkeys and makara or naga.",
+  "url": "https://th.wikipedia.org/wiki/%E0%B8%97%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B2%E0%B8%A5"
+ },
+ {
+  "id": "thai",
+  "claim": "Lanna temples have a pair of singha (สิงห์, lions) at gates and stairways; a Thai arts-magazine summary (via search) says the temple-front singha came through Pagan (Burmese) influence, tells of a lion that carried off a king's daughter and had two sons, after which a ruler made lion figures at stupas and temple doors, and notes the Burmese type of lion holding a woman in its mouth (สิงห์คายนาง).",
+  "url": "https://www.silpa-mag.com/?p=52305",
+  "note": "Via search only; the page is blocked to fetchers."
+ },
+ {
+  "id": "thai",
+  "claim": "Wikipedia on the Burmese chinthe gives the founding legend from the Mahavamsa: Princess Suppadevi had a son, Sinhabahu, with a lion; he later killed the lion, his own father, and built a lion statue to guard a temple to atone for it. Chinthe pairs flank pagoda entrances and are related to the Thai singha (สิงห์).",
+  "url": "https://en.wikipedia.org/wiki/Chinthe",
+  "note": "The Mahavamsa is the Sri Lankan chronicle's Sinhabahu story (father of Sinhala people); the link to Lanna singha is the Burmese/Pagan route."
+ },
+ {
+  "id": "thai",
+  "claim": "Chofa (ช่อฟ้า, 'sky tassel') is the horn-like roof finial on the ridge end of Thai and Lao wat and palace roofs, generally believed to represent Garuda; the chofa-raising ceremony (พิธียกช่อฟ้า) marks completion of the building, and a chofa in the form of a gajasimha is traced to Suryavarman II (1113-1150).",
+  "url": "https://en.wikipedia.org/wiki/Chofa",
+  "note": "Types include swan-beak, garuda-beak, fish-beak, elephant head, naga head and bird head."
+ },
+ {
+  "id": "thai",
+  "claim": "Thai word for gargoyle: ปนาลี (panali) or การ์กอยล์; Thai Wikipedia defines it as a grotesque stone figure projecting from a building with a channel that throws roof water away, and calls a purely decorative figure รูปอัปลักษณ์.",
+  "url": "https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%AD%E0%B8%A2%E0%B8%A5%E0%B9%8C",
+  "note": "The word panali is the Thai form of Sanskrit pranala, 'water outlet' (see Wikipedia Pranala); the Royal Institute dictionary entry was not reached."
+ },
+ {
+  "id": "thai",
+  "claim": "Makara in Thai (มกร) is called 'ตัวสำรอก' (the vomiting creature) because it is shown spitting something out, e.g. makara spewing a naga; it is the mount of Ganga and Varuna and used in Lanna rain-asking rites.",
+  "url": "https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%81%E0%B8%A3"
+ },
+ {
+  "id": "thai",
+  "claim": "NOT FOUND: a named Thai wat rain spout carved as a naga or makara head (outside the Khmer prasat somasutra context); the pages opened describe naga balustrades and bridges rather than spouts.",
+  "url": "https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%81%E0%B8%A3"
+ },
+ {
+  "id": "thai",
+  "claim": "A Lanna temple-guardian overview describes the makara releasing a naga (makara with mouth wide open and a naga coming out) as a stair-and-gateway guardian motif, singha lions at the entrances of ordination halls and temple compounds, yaksha in pairs flanking entrances, and a local Lanna creature called the mom.",
+  "url": "https://www.maehongsonholidays.com/?p=26696",
+  "note": "A regional travel site, not a heritage body; it says the singha motif traces to Indian and Burmese influences."
+ },
+ {
+  "id": "thai",
+  "claim": "A 15th-century high-fired stoneware roof tile from Sukhothai/Si Satchanalai shows a makara spewing forth three naga, in the Southeast Asian Hindu-Buddhist style; it is held by Singapore's National Heritage Board.",
+  "url": "https://www.roots.gov.sg/collection-landing/listing/1114002"
+ },
+ {
+  "id": "thai",
+  "claim": "A search summary says some naga-head roof finials on Thai temples are made to catch rain running off the roof and shoot it out of the naga's mouth, linking the serpent to water in Thai lore.",
+  "url": "https://sealionplus.iseas.edu.sg/nodes/view/8955",
+  "note": "Via search; the source of that sentence was not identified (the sealionplus page cited here only describes naga along the Wat Arun roof edges). Treat as unconfirmed."
+ },
+ {
+  "id": "khmer",
+  "claim": "A somasutra is a stone pipe or channel that drains the lustral water poured over the lingam in the sanctuary; it projects outside the temple, often ending in a carved makara head at the spout, and marks a Shaivite temple.",
+  "url": "https://lucasvarro.com/blogs/angkorpedia/somasutra",
+  "note": "A gallery glossary, not a scholarly source. Wikipedia (Pranala) notes some French archaeologists used 'soma-sutra' for the pranala, but Indian texts distinguish them: the soma-sutra is the line along which the pranala sits. https://en.wikipedia.org/wiki/Pranala"
+ },
+ {
+  "id": "khmer",
+  "claim": "At Prasat Phanom Rung (Thailand), in the central sanctuary the lingam is gone and only the somasutra, used to drain water during rites, remains.",
+  "url": "https://en.wikipedia.org/wiki/Phanom_Rung",
+  "note": "Thai Wikipedia: the lingam was lost and only the somasutra, a channel for holy water from bathing the lingam, remains: https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%99%E0%B8%A1%E0%B8%A3%E0%B8%B8%E0%B9%89%E0%B8%87"
+ },
+ {
+  "id": "khmer",
+  "claim": "NOT FOUND: a source stating that the Phanom Rung somasutra ends in a makara or naga spout; the pages opened only say the channel remains.",
+  "url": "https://en.wikipedia.org/wiki/Phanom_Rung"
+ },
+ {
+  "id": "khmer",
+  "claim": "Khmer lintels commonly carry a kala, nagas and makaras; Banteay Srei's lintels have kala at the top of garland loops; makaras at the ends face inward in the Sambor Prei Kuk style and outward in the Kulen and Preah Ko styles.",
+  "url": "https://en.wikipedia.org/wiki/Khmer_architecture"
+ },
+ {
+  "id": "khmer",
+  "claim": "A makara in Khmer architecture is a sea monster with a serpent's body, elephant's trunk and a head resembling a lion, crocodile or dragon, usually shown with another creature emerging from its maw.",
+  "url": "https://en.wikipedia.org/wiki/Khmer_architecture"
+ },
+ {
+  "id": "khmer",
+  "claim": "A pranala is the discharge outlet on the wall of a Hindu sanctum for lustral water; the commonest type is the makara-pranala, which is similar to a European gargoyle; the 11th-century Samarangana Sutradhara recommends a pranali around the sanctum ending in a graha (makara) shape.",
+  "url": "https://en.wikipedia.org/wiki/Pranala"
+ },
+ {
+  "id": "chaac",
+  "claim": "Chaac (Chac, Chaahk) is the Maya god of rain, thunder and lightning, who strikes clouds with his lightning axe; he is shown with reptilian or amphibian scales and a non-human head with fangs and a long, pendulous nose.",
+  "url": "https://en.wikipedia.org/wiki/Chaac"
+ },
+ {
+  "id": "chaac",
+  "claim": "The Codz Poop ('Rolled Matting', also Palace of the Masks) at Kabah has a facade covered with hundreds of masks of the long-nosed Chaac, a massive repetition of one set of elements that is unusual in Maya art; copal incense has been found in some of the stone noses.",
+  "url": "https://en.wikipedia.org/wiki/Kabah_(Maya_site)"
+ },
+ {
+  "id": "chaac",
+  "claim": "Count: Mayan.org says an estimated 250 Chaac masks cover the roughly 45-metre western facade; Lonely Planet says nearly 300; Wikipedia says 'hundreds'.",
+  "url": "https://mayan.org/ruins/kabah/",
+  "note": "Disagreement: 250 (mayan.org) vs nearly 300 (https://www.lonelyplanet.com/points-of-interest/kabah/1329270) vs 'hundreds' (Wikipedia). A search summary also mentioned '250 curling god-snouts'."
+ },
+ {
+  "id": "chaac",
+  "claim": "Why so many: there are no cenotes in the dry northern Yucatan, so the Puuc Maya depended on rain alone, which explains the emphasis on Chaac at Kabah and neighbouring Puuc sites.",
+  "url": "https://en.wikipedia.org/wiki/Kabah_(Maya_site)"
+ },
+ {
+  "id": "chaac",
+  "claim": "Disagreement on identity: the Bluffton University page on the Codz Poop quotes Mary Ellen Miller that Linda Schele and Peter Mathews identified many of these heads as aspects of Itzamnah, the principal creator god, in his avian form, not Chaac.",
+  "url": "https://homepages.bluffton.edu/~SULLIVANM/mexico/kabah/kabah.html",
+  "note": "Most popular sources still call them Chaac masks."
+ },
+ {
+  "id": "chaac",
+  "claim": "At Uxmal, Puuc-style facades use entwined snakes and masks of Chaac whose big noses represent the rays of the storms.",
+  "url": "https://en.wikipedia.org/wiki/Uxmal"
+ },
+ {
+  "id": "greenman",
+  "claim": "The Green Man is a foliate head, a face made of or surrounded by leaves, with vegetation spreading from the face or sprouting from the mouth; it first appeared in England in the early 12th century (from France) and was popular in Gothic architecture of the 13th to 15th centuries.",
+  "url": "https://en.wikipedia.org/wiki/Green_Man"
+ },
+ {
+  "id": "greenman",
+  "claim": "The name 'Green Man' was coined by Lady Raglan in a 1939 article in the Folklore journal; her idea that it shows a pagan deity is not supported by evidence, and the motif is mostly read as a symbol of rebirth.",
+  "url": "https://en.wikipedia.org/wiki/Green_Man"
+ },
+ {
+  "id": "greenman",
+  "claim": "A sheela na gig is a carving of a naked woman displaying an exaggerated vulva, found on medieval churches and castles; Ireland has the most (124 examples counted by McMahon and Roberts vs 45 in Britain), with well-known ones at Rattoo (Kerry) and Kilpeck (Herefordshire).",
+  "url": "https://en.wikipedia.org/wiki/Sheela_na_gig",
+  "note": "Scholars disagree on origin: Jerman and Weir say France/Spain in the 11th century spreading to Britain and Ireland in the 12th; McMahon and Roberts argue some are older goddess carvings reused."
+ },
+ {
+  "id": "weird",
+  "claim": "The Lincoln Imp is a small grotesque high on the north side of Lincoln Cathedral's Angel Choir (built 1250-1280), now the symbol of the city; the name 'Lincoln Imp' arose before 1897, when Arnold Frost's pamphlet poem tied the carving to an older legend of the devil sheltering from the wind, a legend that originally mentioned no carving.",
+  "url": "https://en.wikipedia.org/wiki/Lincoln_Imp"
+ },
+ {
+  "id": "weird",
+  "claim": "The Lincoln legend: the devil and the wind visited the minster; the devil went in to chat with the Dean and Canons and 'the wind has been waiting there ever since'; Frost's poem turned the devil into the imp carving. The phrase 'looking as the devil over Lincoln' (envious look) goes back at least to 1562.",
+  "url": "https://en.wikipedia.org/wiki/Lincoln_Imp"
+ },
+ {
+  "id": "weird",
+  "claim": "At Princeton the Public Library tour calls the best-known grotesque the Roaring Twenties joy-ride couple at the Graduate College (driving recklessly, smoking, missing a goose); at Dillon Gymnasium a 'literate ape' in robes holding a book is one of four figures over the main doors; a monkey with a camera is one of several monkeys on 1879 Hall.",
+  "url": "https://princetonlibrary.org/a-grotesque-tour-of-princeton/",
+  "note": "The tour follows the book 'The Gargoyles of Princeton University', which features 14 grotesques out of hundreds. Dillon Gymnasium was built in 1947 (via search)."
+ },
+ {
+  "id": "weird",
+  "claim": "Yale's grotesques include, on the Sterling Law Building, a professor shouting to wake sleeping students, a court jester blindfolding the figure of Justice, and half-beast lawyers (bulldog, donkey, parrot, wolf); Leet Oliver Hall has a gryphon and a Pegasus at its drainpipe cornices; a newer residential college has an iPhone grotesque (via search).",
+  "url": "https://your.yale.edu/youryale/2026-07-27-carved-in-stone"
+ },
+ {
+  "id": "weird",
+  "claim": "Gloucester Cathedral commissioned six new 3-ft-tall gargoyles (a rugby player, jockey, suffragette, miner, sheep shearer and cheese roller) for its north ambulatory restoration, sculpted by master mason Pascal Mychalysin; the cheese chaser was 'loosely inspired by Germaine Greer having a row'.",
+  "url": "https://www.strathspey-herald.co.uk/news/national/cheese-roller-gargoyle-to-grace-gloucester-cathedral-4119",
+  "note": "Restoration cost given as 400,000 pounds there and 530,000 pounds by Designing Buildings (https://www.designingbuildings.co.uk/wiki/Gargoyle)."
+ },
+ {
+  "id": "weird",
+  "claim": "The Freiburg Minster legend: a stonemason who was not paid by the city council set one of the gargoyles to appear to defecate toward the council building.",
+  "url": "https://grays-stone-carving.co.uk/grotesques-and-gargoyles/",
+  "note": "A legend as told by a stone-carving studio; not verified by a heritage body."
+ },
+ {
+  "id": "weird",
+  "claim": "NOT FOUND: any notable grotesque called 'Fernand'; and no specific Vezelay gargoyle story was found in the pages opened.",
+  "url": "https://en.wikipedia.org/wiki/Gargoyle"
+ },
+ {
+  "id": "carving",
+  "claim": "At Gloucester Cathedral the master mason makes a full-size clay model (maquette, about 3 ft high) and the masons copy it in stone using a pointing machine and then by eye; the stone used was French limestone Beaunotte/Beauval, used there as a weathering stone.",
+  "url": "https://www.masonslivery.org/gloucester-gargoyles-by-yeoman-mason-paul-synan/",
+  "note": "Also: https://britishheritage.com/history/ancient-craft-masonry-gloucester (tools little changed since medieval times; hand-carved apart from an electric grinder)."
+ },
+ {
+  "id": "carving",
+  "claim": "At York Minster, master stonemason Lewis Morrison spent 14 weeks carving one grotesque from about 1,510 pounds of local limestone; the finished piece weighed about half a ton; York has 12 full-time stonemasons.",
+  "url": "https://www.nationalgeographic.com/culture/article/medieval-statues-grotesques-stonemasons",
+  "note": "A grotesque (not a spout) so no throat channel; it shows scale for a large figure."
+ },
+ {
+  "id": "carving",
+  "claim": "Paisley Abbey's twelve new gargoyles each took about four weeks, with carvers working eight-hour days.",
+  "url": "https://www.stirlingcityheritagetrust.org/blog/story-behind-paisley-abbeys-alien-gargoyle"
+ },
+ {
+  "id": "carving",
+  "claim": "At Notre-Dame a dozen sculptors in a workshop at the foot of the cathedral are recreating gargoyles and chimeras in clay from photographs, each piece taking at least three weeks (Euronews, 2023); the new carvings use stone from the quarry that supplied the originals, La Carriere du Clocher at Bonneuil-en-Valois.",
+  "url": "https://www.euronews.com/culture/2023/03/22/the-gargoyles-of-the-notre-dame-de-paris-are-coming-back-to-life",
+  "note": "Quarry detail from https://www.euronews.com/culture/2024/10/28/notre-dame-cathedrals-gargoyles-undergo-makeover-for-grand-reopening"
+ },
+ {
+  "id": "carving",
+  "claim": "Function in the carving: a trough is cut in the back of the gargoyle and the rainwater exits through the open mouth; at Notre-Dame the water ran from lead gutters down buttress channels, then along the channel cut in the gargoyle's back and out the mouth.",
+  "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+ },
+ {
+  "id": "carving",
+  "claim": "Viollet-le-Duc notes that some medieval gargoyles were left only roughed out where not seen, and that hard fine limestones of the Seine basin such as liais-cliquard suited these long projecting stones, giving the best surviving examples in Paris and Tonnerre.",
+  "url": "https://fr.wikisource.org/wiki/Dictionnaire_raisonn%C3%A9_de_l%E2%80%99architecture_fran%C3%A7aise_du_XIe_au_XVIe_si%C3%A8cle/Gargouille"
+ },
+ {
+  "id": "carving",
+  "claim": "Materials: gargoyles were mostly stone from the Middle Ages on (early ones could be wood or terracotta) and sometimes painted or gilded; lead gargoyles existed but few survive from before the 16th century (French Wikipedia), and the French article says no terracotta gargoyles are known in France.",
+  "url": "https://www.designingbuildings.co.uk/wiki/Gargoyle",
+  "note": "French Wikipedia: https://fr.wikipedia.org/wiki/Gargouille . The Designing Buildings page says early ones were wood or terracotta; the French article says no terracotta ones are known there."
+ },
+ {
+  "id": "carving",
+  "claim": "Canterbury Cathedral stonemason Benn Swinfield (15 years' experience) says a gargoyle has a water spout through the mouth and a grotesque does not, and describes himself as a craftsman more than an artist.",
+  "url": "https://www.canterbury-cathedral.org/news/posts/do-you-know-the-difference-between-a-gargoyle-and-a-grotesque/"
+ },
+ {
+  "id": "carving",
+  "claim": "NOT FOUND: a sourced detail on how the throat channel is cut or drilled, or on lead lining inside it (sources say only 'a trough is cut in the back'), and a sourced typical weight for one gargoyle (the York grotesque at about half a ton is the only weight found).",
+  "url": "https://www.nationalgeographic.com/culture/article/medieval-statues-grotesques-stonemasons"
+ }
+]

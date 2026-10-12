@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /sheet.html
+Sitemap: https://nanobotco.github.io/gargoyles/sitemap.xml

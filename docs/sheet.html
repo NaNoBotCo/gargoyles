@@ -1,0 +1,46 @@
+<!doctype html><html><head><meta charset="utf-8"><title>sheet</title>
+<meta name="robots" content="noindex">
+<style>body{margin:0;background:#e9e4d8;font:12px system-ui}#g{display:flex;flex-wrap:wrap;gap:8px;padding:8px}figure{margin:0;background:#fff;padding:4px}figcaption{padding:2px 4px;color:#333}canvas{display:block}</style>
+</head><body><div id="g"></div>
+<script src="pen.js"></script><script src="beasts.js"></script><script src="beasts-east.js"></script><script src="scenes.js"></script><script src="hero.js"></script>
+<script>
+/* sheet.html?s=spec|spec&t=4200 — draws specs side by side for review; window.drawAt(t) redraws them all (films).
+   beast:<id>[:variant][+rain][+poke=<ms>][+flip]   hero[:rain][@<hour>][+poke=<ms>][+who=notre|stryge|pigeon]   scene:<name>[:<arg>] */
+(function () {
+  var G = window.GARG, q = new URLSearchParams(location.search), t0 = +(q.get("t") || 4200);
+  var specs = (q.get("s") || G.BEAST_ORDER.map(function (b) { return "beast:" + b; }).join("|")).split("|");
+  var size = +(q.get("size") || 360), cells = [];
+  specs.forEach(function (spec) {
+    var opts = {}, parts = spec.split("+"), head = parts.shift();
+    parts.forEach(function (p) { var kv = p.split("="); opts[kv[0]] = kv.length > 1 ? (isNaN(+kv[1]) ? kv[1] : +kv[1]) : true; });
+    var hour = null; if (head.indexOf("@") > 0) { hour = +head.split("@")[1]; head = head.split("@")[0]; }
+    var bits = head.split(":"), kind = bits[0], fig = document.createElement("figure"), cv = document.createElement("canvas"), cap = document.createElement("figcaption");
+    cap.textContent = spec; fig.appendChild(cv); fig.appendChild(cap); document.getElementById("g").appendChild(fig);
+    var W = size, H = size, sh = null;
+    if (kind === "hero") { W = +(q.get("hw") || 1200); H = +(q.get("hh") || 680); }
+    if (kind === "scene") { sh = G.SCENE[bits[1]]; if (sh) { W = sh.w || 720; H = sh.h || 420; } }
+    cv.style.width = W + "px"; cv.style.height = H + "px";
+    var dpr = 2; cv.width = W * dpr; cv.height = H * dpr; var c = cv.getContext("2d");
+    var stt = { arg: bits[2], opts: opts };
+    if (kind === "scene" && bits[1] === "map") { stt.arg = null; stt.pins = [{ id: "notre", lon: 2.35, lat: 48.85, rain: 1 }, { id: "chishou", lon: 116.4, lat: 39.9 }, { id: "makara", lon: 85.3, lat: 27.7 }, { id: "chaac", lon: -89.6, lat: 20.1 }, { id: "singha", lon: 98.98, lat: 18.79, rain: 1 }, { id: "eagle", lon: -73.98, lat: 40.75 }]; stt.sel = 1; }
+    cells.push(function (t) {
+      c.setTransform(dpr, 0, 0, dpr, 0, 0); c.clearRect(0, 0, W, H);
+      if (kind === "beast") {
+        var rain = opts.rain ? 1 : 0, sky = G.skyCols(30, rain), g = c.createLinearGradient(0, 0, 0, H); g.addColorStop(0, sky[0]); g.addColorStop(1, sky[1]);
+        c.fillStyle = g; c.fillRect(0, 0, W, H); c.fillStyle = "#6f7f62"; c.fillRect(0, H * 0.92, W, H * 0.08);
+        var pad = W * 0.06, m = G.beast(c, bits[1], pad, pad * 0.6, W - pad * 2, { t: t, poke: opts.poke != null ? opts.poke : (opts.pokeloop ? t % 2400 : -1), rain: rain, variant: bits[2], flip: !!opts.flip });
+        if (m && rain) G.jet(c, m.x, m.y, m.dx * 0.32, m.dy * 0.32, 1, t, H * 0.93, { w: 7 * m.k * 2.2 });
+        G.rain(c, W, H, t, rain, 0.1);
+      } else if (kind === "hero") {
+        var hr = hour == null ? 15 : hour;
+        G.HERO.draw(c, W, H, { t: t, alt: 62 * Math.sin((hr - 6) / 12 * Math.PI) - 4, moon: 0.45, rain: bits[1] === "rain" ? 1 : 0, cloud: 0.35, poke: opts.poke != null ? opts.poke : -1, pokeWho: opts.who || "notre" });
+      } else if (sh) {
+        stt.t = t; sh.draw(c, W, H, stt);
+      } else { c.fillText("no such spec: " + spec, 10, 20); }
+    });
+  });
+  window.drawAt = function (t) { cells.forEach(function (f) { f(t); }); };
+  function go() { window.drawAt(t0); document.body.setAttribute("data-done", "1"); }
+  fetch("land.json").then(function (r) { return r.json(); }).then(function (l) { G.LAND = l; go(); }).catch(go);
+})();
+</script></body></html>
