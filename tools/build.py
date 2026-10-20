@@ -6,6 +6,7 @@ beasts-east.js, scenes.js, hero.js and app.js; the page hands app.js its strings
     python3 tools/build.py
 """
 import html
+import ogcards
 import json
 import os
 import sys
@@ -292,6 +293,8 @@ def main():
         '<path d="M3 14h12l4 4h10l7 3-7 3 3 2-7-1-4 2H5z" fill="#d6cab1"/><circle cx="28" cy="19.5" r="1.5" fill="#1f2433"/>'
         '<path d="M35 24q2 6 1 12" stroke="#5ea7ff" stroke-width="2.4" fill="none" stroke-linecap="round"/></svg>\n')
     print("wrote docs/index.html, docs/th/index.html, llms.txt, robots.txt, sitemap.xml, icon.svg")
+    ogcards.copy(ROOT, DOCS)
+    ogcards.apply_tree(DOCS, SITE)
 
 
 if __name__ == "__main__":
